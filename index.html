@@ -16,6 +16,572 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-07-09">2021-07-09</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://zenn.dev">Zennのトレンド</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">TypeScriptプロジェクトのCIでやってること</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/daikik/articles/b1a2061162ed83">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>概要
+最近退職に伴いTypeScriptプロジェクトのCI/CDの見直しを行っているので主にプルリクに対するCIを中心に何をやっているのか(やっていた＆やろうとしているもの含む)紹介します。
+それぞれはさらっとした紹介のみです。
+
+ tsc, prettier, eslint
+基本です。恐らく殆どのプロジェクトでやっているかと思います。
+tscは--noEmitオプションを付けて実行、eslintは--cacheと--quietオプションを付けて実行しています。
+prettierは--list-differentオプションを付けると差分があった場合(&#x3D;prettierが適用されていな...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">ゲームのサーバを作ろう with Django REST Framework</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/kacky/articles/f9e212749fcb1540ceec">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>この記事の目的
+このスライドは、ゲームとかサーバサイドのプログラムを作ったことがない人(主に学生)に向けて、実践を通じてゲームのサーバサイドのエンジニアがどんなお仕事をするのかを体験してもらうための資料です。コレ１つでバックエンドエンジニアになれるわけではないですが、なるために必要なエッセンスをできるだけ入れていこうと思います。
+今回はゲームにおけるランキング機能をサーバとして用意するという目標で、サーバサイドでの設計や実装を体験してもらいます。
+
+ そもそもゲームのサーバってなんなん？
+まずは、ゲームにおけるサーバってなにするものなのか？という話をします。そもそもゲームにおいてサー...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">microCMSのリッチエディタで取得できる値を、いい感じに処理するライブラリの紹介</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/d_suke/articles/e18352797bbe00bdabb6">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>はじめに
+microCMS を使っている方はご存知の通り、
+API スキーマ設定の際に用いることのできる入力フォームとして、「リッチエディタ」があります。
+
+こちらのように様々なオプションのあるエディタになっており、
+データとしては HTML が返ってきて、これひとつでもかなりのユースケースをカバーできます。
+ただ、僕自身、取得した HTML データをそのまま使うことはほとんどなく
+サーバーで処理をした上で、クライアントビルドに含めることが多いです。
+そんなふうに、毎回同じような処理を書いている気がしたので、
+その処理をある程度汎用化して、ライブラリとして作成し、
+公開をしましたので...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-07-08">2021-07-08</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://zenn.dev">Zennのトレンド</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">GitHub API v4 でページネーションを考慮したクエリの実装</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/ryo_kawamata/articles/github-api-v4-pagenation">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>GitHub API v4 でページネーションを考慮してクエリを投げる機会があったので、その作業メモです。
+
+ GitHub API v4のページネーション
+GitHub API v4 で nodes や edges を持つリソースには、PageInfoというオブジェクトフィールドがあり、以下 4 つのフィールドを持ちます。
+
+endCursor
+hasNextPage
+hasPreviousPage
+startCursor
+
+ページングでは、このendCursorとhasNextPageのペア又はstartCursorとhasPreviousPageのペアを使います。
+endCurso...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Unityで特定の順番でキー入力したかを判定する</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/nekomimi_daimao/articles/01a07dfe1e3754">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>概要
+特定の順番でキーを入力したことを検知する仕組みを作ってみました。
+途中で間違えるとリセットされて1から入力しなければいけなくなります。
+また、最初の1文字を入力してから一定時間が経つとリセットされるタイムアウト機能もあります。
+TypeChecker.cs
+https://gist.github.com/nekomimi-daimao/1dece355acf66b84aaaaa185cff6e271
+
+ 動作させた様子
+
+nekomimiと入力されることを期待。タイムアウトは5秒です。
+キー入力そのものは表示されていませんが、こんな感じで入力しています。
+
+
+nekomi kと...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">TypeScript で「コンストラクタで渡さなかった引数だけ後で必須にする」の型制約を書く</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/mpyw/articles/3c063143fe884a">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>実装
+
+      
+        
+        /**
+ * [α] T 型から undefined 不可キーの union を抽出
+ */
+type RequiredKeys &#x3D; {
+  [K in keyof T]-?: Record extends Pick
+    ? never
+    : K;
+}[keyof T];
+
+/**
+ * [β] α を利用し， Passed 型から Req 型の条件を満たさないものだけを抽出
+ */
+type MissingKeys&lt;Req, Passed...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">MacでHHKBを快適に使いたい</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/kawacdev/articles/e2b38830d34d10">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>MacでHHKBを使いたい
+キーボードが日本語配列のMacbookを買ったのだが、英語配列のHHKBを使うために設定したときのメモ。
+
+ドライバをインストール
+入力切り替えの設定
+KarabinerでHHKBのキー設定
+
+
+ 1.ドライバをインストール
+https://www.pfu.fujitsu.com/hhkeyboard/macdownload.html
+ここからドライバをインストールしておく。
+
+ 2.入力切り替えの設定
+キーボードの設定から
+[Spotlight検索を表示]を無効化
+
+[前の入力ソースを選択] Ctrl + スペース -&gt; Cmd + スペース
+
+
+...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">actions/checkout@v2はgitconfigを書き換える副作用がある</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/urotea/articles/0ed9b326d0ec8f">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>一言で言うと
+github actionsで使用するactions/checkout@v2は.git/configを書き換えるので、actions/checkout@v2を使用した後にgitコマンドを使うと思わぬ動きをすることがあるから気をつけてほしい。
+あと、.dockerignoreに.gitを忘れないように。
+
+ 何が起きたか
+githubのプライベートリポジトリを依存に含んでいたため、トークンを使って依存解決していた。
+以下のようなワークフローを書いていた。
+
+      
+        
+        # at github.com/Urotea/sample-priv...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">LAN内PCのIPアドレス探索ツール「rclshark」について</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/array/articles/9fd8cb5941bb94">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>IPアドレス探索ツールを作成し、そのバージョン1.0.0をリリースすることができたので報告します。
+https://github.com/Ar-Ray-code/rclshark/releases/tag/v1.0.0
+この「rclshark」、みなさんがラズパイやJetsonを扱うときに1度は経験する「あ゛ぁ💢」を無くす便利ツールになるかもしれません。ぜひこのツールを体験してほしいです。
+
+ 経緯など
+このツールのコンセプトは至ってシンプル。
+「ネットワーク内のリモートデバイスのIPアドレスを見つける」
+です。みなさんは、このような経験ありませんか？
+
+ディスプレイに接続されていないP...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">[React] ref.current を useEffect の第二引数のリストに書かない</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/service_503/articles/b7668a820b5856">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>よくこんなコード書いてないですか
+
+      
+        
+          const ref &#x3D; useRef(null);
+  
+  useEffect(() &#x3D;&gt; {
+    if(ref.current) {
+      ...
+    }
+  }, [ref.current]);
+  
+  return (
+    
+  );
+
+
+      
+      これだとマウント時にはレンダリングされない要素に ref を渡した場合に動かなかったりします
+
+      
+        
+        ret...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">styled-componentsをTypescriptで使う上でのTips</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/nekoniki/articles/f8600d1ab7d908">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>はじめに
+今回はTypescript + Reactでstyled-componentsを使う場合のTipsを紹介します。
+styleプロパティで直接記載するよりもスタイルの管理がしやすい+使い回しやすいといったメリットがあるのでおすすめです。
+※普段はReact Nativeを扱っていますが、styled-componentsに着目した場合の使用感はほぼ同じといっていいので、サンプルコードはReactのものになります。
+
+ そもそもstyled-componentsとは
+styled-componentsは所謂CSS in JSライブラリの一種になります。
+名前が表す通り、JSもし...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Rust + LLVMで自作言語をセルフホスティングした話</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/yubrot/articles/eaaeeab742b4a1">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>https://github.com/yubrot/llrl
+RustとLLVMを用いて自作言語のコンパイラを実装し、自作言語上にコンパイラ実装を移植して、セルフホスティングを試みました。生成された実行バイナリが完全に一致するところまでこぎつけたので、取り組んだことを順に振り返りたいと思います。
+本記事では、極力RustとLLVMを用いての自作言語のセルフホスティングについての話にフォーカスしたいと思います。筆者の動機や、筆者の言語デザイン上の選択、言語の特徴、言語固有の話などは個人ブログの方に書いたので、こちらも併せてご参照ください。
+https://yubrot.github.io/...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">なぜWebpackの設定はTypeScriptで書けるのか？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/uttk/articles/ab7afa61eb481f">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>この記事について
+webpackの設定ファイルであるwebpack.config.jsは、TypeScriptで書いてNode.js上で実行できます。しかし、本来であればTypeScriptのソースコードはNode.jsでは実行できないはずです。 この事が気になった私は、今回その仕組みを調べてみたので、この場を借りてその調査結果を共有したいと思います💪
+参照
+https://webpack.js.org/configuration/configuration-languages/
+
+ 記事の概要
+概要のみ知りたい人に向けて、以下にこの記事で解説する内容のまとめを書いておきます👇
+
+
+...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-07-07">2021-07-07</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://zenn.dev">Zennのトレンド</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Kindle で購入した書籍をブクログへ自動で登録する</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/ysmtegsr/articles/c9077709acb67ff3f1d9">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>はじめに
+いきなりですが、みなさん読書の管理ってどうしていますか？
+僕は、ブクログ というサービスを使っています。以前は、読書メーター を使っていたんですが、ブクログは本に記載されている ISBN コードや Amazon の Asin コードから本を登録できる[1]ということを知って最近移行しました。
+どうせなら自動化したいなと思い、調べてみると同じことを考えた先人たちがいらっしゃったので参考にしつつやってみたのでその紹介です。
+
+ 作ったもの
+Kindle で書籍を購入した際に Amazon からメールが届きます。そのメールから使いたい Asin コードだけを抜き出して、購入した書...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Swift: 演算子の定義について完全に理解した。</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/kyome/articles/48f551222b339c">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(10 min)</span>
+                    <span>はじめに
+Swiftでは演算子を自分で定義することができます。
+まず、Swiftの演算子は特殊な関数です。
+演算子（Operator）の定義に必要な要素は以下の6つです。
+
+演算子に使う記号/文字
+演算子の優先順位（Precedence）
+演算子の結合性（Associativity）
+オプショナル・チェーンにおける代入の可否（Assignment）
+演算子の種類（中置infix・接頭辞prefix・接尾辞postfix）
+演算子の機能実装
+
+
+ 演算子に使える文字
+基本的に使えるのは、変数名、関数名、クラス名などに使える文字ではない文字です。
+代表的なものは、/ &#x3D; - + ! * ...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Slack の予約送信機能を検証してみた</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/rotomx/articles/d064c26d7b15cb">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Slack についに予約送信の機能がリリースされました🎉
+無料ワークスペースから開始し、有料ワークスペースにも随時展開がされています。
+（Enterprise Grid が一番遅いようです）
+https://slack.com/intl/ja-jp/help/articles/1500012915082
+
+ 使い方
+
+機能が展開されたワークスペースではこのようなポップアップが表示されます
+
+
+
+メッセージフィールドに現れた矢印アイコンをクリックすると送信日時を設定できます
+
+
+
+「カスタム時間」を選択すると、任意の日付、時間を指定することができます
+
+
+
+予約投稿したメッセージはサイドバ...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">WeakRef と console.log</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/mizchi/articles/weakref-on-devtool">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>ES2021 に入った WeakRef を実験したらハマったのでメモ
+
+WeakRef - JavaScript | MDN
+WeakRef: JavaScriptに弱参照がやってくる（ついでにFinalizationも） - Qiita
+
+
+ tl;dr
+
+devtool を開いた状態で console.log すること自体が参照になる
+WeakRef で取得した参照を console.log すると、それも参照なので、本来開放されるはずでもリソースの開放が行われなくなる
+循環参照オブジェクトでも、内部での循環参照に閉じてる限りちゃんと捨てられる(少なくともv8は)
+
+
+ 確かめたこと...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">DenoでCLIツールを作ってみる：treeコマンドの実装</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/kawarimidoll/articles/0f5bc71ae633f3">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>7/7は七夕🎋です。
+この絵文字が:tanabata_tree:ということで、Denoでtreeコマンドを作ってみました。
+以下のような表示結果が得られます。
+
+今回の完成品はGitHub Gistに上げています。
+https://gist.github.com/kawarimidoll/c6f1c1007370b00bd4d345525490cdb8
+作業記憶（Zenn Scrap）はこちら
+
+ はじめに
+treeコマンドは、現在のディレクトリ以下のファイルを再帰的に階層付けて表示するコマンドです。
+https://www.atmarkit.co.jp/ait/articles/180...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">GraphQL でフェッチした部分的なモデルのドメインロジックを TypeScript と Proxy で表現する試み</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/yuku/articles/45bb0d6cf3da85">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>仕事で GraphQL を使ったプロダクトに DDD のエッセンスを取り入れたく、GraphQL で部分的にフェッチしたドメインモデルに堅牢な型付けを試みたので、まだまだ荒削りですが紹介します。
+
+ やりたいこと
+このような GraphQL スキーマがあったとします。
+
+      
+        
+        type Person {
+  firstName: String!
+  lastName: String!
+  age: Int!
+}
+
+type Query {
+  person: Person!
+}
+
+
+      
+      この Person に対して、以下よう...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-07-06">2021-07-06</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://zenn.dev">Zennのトレンド</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">UUIDを重複させるにはどれだけ時間がかかるのか試してみた</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/kiyocy24/articles/uuid-duplicate-time">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>絶対に重複しないといわれるUUID
+UUIDとはUniversally Unique Identifier の略で、「Universally」つまり将来にわたって重複や偶然の一致が怒らないという前提で使われるIDのことです。
+128ビットで表現されるUUIDは2^128通り（Version 4では固定値があるため2^122通り）あり、その膨大なパターンから将来に渡って重複しないとされています。その特性から、ファイルのハッシュ値に使われたり、DBのキーに使われたりしています。重複しないことが約束されているので、大変使い勝手が良いのです。
+とはいえ、有限桁数である以上は重複が発生する可能...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">RustでLLVM-C APIへの高レベル抽象インターフェースを考える</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/yubrot/articles/37b6724e41fd3c">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>https://github.com/yubrot/llrl/tree/main/llvm0
+LLVMはC APIを提供しており、C++以外のプログラミング言語からも比較的簡単に利用できる。
+Rustではllvm-sysというC APIのバインディングが既にあるので、C APIを単に利用するのであればこのクレートを依存に加えればすぐに利用できる。しかし llvm-sys はC APIの純粋なバインディングなので、Rustのコードから使用するには貧相であり、なにより  アンセーフ である。 *-sys は crates.ioの命名規約の一種で、高レベルな抽象は別途提供すべきとされている。
+...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">妻、プログラマーにならないってよ Chapter 1</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/pik/books/ddad3b8f35b11035752e">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>妻が夫の仕事に興味を持ったことから、プログラムを学ぶドキュメンタリー
+Chapter1 は導入から GUI の作成編</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-07-05">2021-07-05</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://zenn.dev">Zennのトレンド</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Pythonで自分だけのクソライブラリを作る方法</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/karaage0703/articles/db8c663640c68b">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Pythonでライブラリを作る
+この記事は、Pythonの基礎とpipでライブラリをインストールしたことあるくらいのレベルの人を想定しています。初心者向けの記事です。
+前提知識として、Pythonのライブラリ・パッケージ・モジュール・クラス・関数の定義や違いに関しては、以下記事あたりを参考にしてください。
+https://ai-inter1.com/python-module_package_library/
+この記事では、Pythonで自作ライブラリを作ります。pip install hogehogeでインストールできるあれですね。
+初心者の方（何を隠そう私も初心者です）だとpip...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-07-04">2021-07-04</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://zenn.dev">Zennのトレンド</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">独習入門 ～基礎編～</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/mossan_hoshi/books/209e11ee43e2bb">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>プライベートの時間における一人での勉強方法についてまとめます。
+内容は「基礎編」「読書編」「プログラミング編」の3つに分かれており、本書では「基礎編」を取り扱います</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-06-23">2021-06-23</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -48,7 +614,7 @@ Thank you @PiyushLosalka</span>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-07-09T12:03:45.374Z">2021-07-09T12:03:45.374Z</time>
+    <time id="build-timestamp" datetime="2021-07-09T12:06:14.185Z">2021-07-09T12:06:14.185Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>

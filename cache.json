@@ -15,6 +15,349 @@
           "title": "v1.11.0"
         }
       ]
+    },
+    {
+      "title": "Zennのトレンド",
+      "feedUrl": "https://zenn.dev/feed",
+      "siteUrl": "https://zenn.dev",
+      "articles": [
+        {
+          "id": "https://zenn.dev/daikik/articles/b1a2061162ed83",
+          "author": "daikik",
+          "description": "概要\n最近退職に伴いTypeScriptプロジェクトのCI/CDの見直しを行っているので主にプルリクに対するCIを中心に何をやっているのか(やっていた＆やろうとしているもの含む)紹介します。\nそれぞれはさらっとした紹介のみです。\n\n tsc, prettier, eslint\n基本です。恐らく殆どのプロジェクトでやっているかと思います。\ntscは--noEmitオプションを付けて実行、eslintは--cacheと--quietオプションを付けて実行しています。\nprettierは--list-differentオプションを付けると差分があった場合(=prettierが適用されていな...",
+          "link": "https://zenn.dev/daikik/articles/b1a2061162ed83",
+          "publishedOn": "2021-07-09T00:44:31.000Z",
+          "wordCount": 131,
+          "title": "TypeScriptプロジェクトのCIでやってること",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--jmq1bgXG--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:daikik%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:TypeScript%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25AECI%25E3%2581%25A7%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%258B%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKdzhodXdIZE9JSzVZTUMxbE95SmhmRkFZaC1KX0YtS1hWODVMNnE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kacky/articles/f9e212749fcb1540ceec",
+          "author": "kacky",
+          "description": "この記事の目的\nこのスライドは、ゲームとかサーバサイドのプログラムを作ったことがない人(主に学生)に向けて、実践を通じてゲームのサーバサイドのエンジニアがどんなお仕事をするのかを体験してもらうための資料です。コレ１つでバックエンドエンジニアになれるわけではないですが、なるために必要なエッセンスをできるだけ入れていこうと思います。\n今回はゲームにおけるランキング機能をサーバとして用意するという目標で、サーバサイドでの設計や実装を体験してもらいます。\n\n そもそもゲームのサーバってなんなん？\nまずは、ゲームにおけるサーバってなにするものなのか？という話をします。そもそもゲームにおいてサー...",
+          "link": "https://zenn.dev/kacky/articles/f9e212749fcb1540ceec",
+          "publishedOn": "2021-07-09T00:28:59.000Z",
+          "wordCount": 935,
+          "title": "ゲームのサーバを作ろう with Django REST Framework",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--4eGAD7T8--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kacky%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258D%25E3%2581%2586%2520with%2520Django%2520REST%2520Framework%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fOWU0M2NjZWExYS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/d_suke/articles/e18352797bbe00bdabb6",
+          "author": "でぃーすけ",
+          "description": "はじめに\nmicroCMS を使っている方はご存知の通り、\nAPI スキーマ設定の際に用いることのできる入力フォームとして、「リッチエディタ」があります。\n\nこちらのように様々なオプションのあるエディタになっており、\nデータとしては HTML が返ってきて、これひとつでもかなりのユースケースをカバーできます。\nただ、僕自身、取得した HTML データをそのまま使うことはほとんどなく\nサーバーで処理をした上で、クライアントビルドに含めることが多いです。\nそんなふうに、毎回同じような処理を書いている気がしたので、\nその処理をある程度汎用化して、ライブラリとして作成し、\n公開をしましたので...",
+          "link": "https://zenn.dev/d_suke/articles/e18352797bbe00bdabb6",
+          "publishedOn": "2021-07-09T00:14:41.000Z",
+          "wordCount": 1108,
+          "title": "microCMSのリッチエディタで取得できる値を、いい感じに処理するライブラリの紹介",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--HaljXJZd--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%25A7%25E3%2581%2583%25E3%2583%25BC%25E3%2581%2599%25E3%2581%2591%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:microCMS%25E3%2581%25AE%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2582%25A8%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BF%25E3%2581%25A7%25E5%258F%2596%25E5%25BE%2597%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E5%2580%25A4%25E3%2582%2592%25E3%2580%2581%25E3%2581%2584%25E3%2581%2584%25E6%2584%259F%25E3%2581%2598%25E3%2581%25AB%25E5%2587%25A6%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYzQyMzBhNjEwOC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/ryo_kawamata/articles/github-api-v4-pagenation",
+          "author": "ryo_kawamata",
+          "description": "GitHub API v4 でページネーションを考慮してクエリを投げる機会があったので、その作業メモです。\n\n GitHub API v4のページネーション\nGitHub API v4 で nodes や edges を持つリソースには、PageInfoというオブジェクトフィールドがあり、以下 4 つのフィールドを持ちます。\n\nendCursor\nhasNextPage\nhasPreviousPage\nstartCursor\n\nページングでは、このendCursorとhasNextPageのペア又はstartCursorとhasPreviousPageのペアを使います。\nendCurso...",
+          "link": "https://zenn.dev/ryo_kawamata/articles/github-api-v4-pagenation",
+          "publishedOn": "2021-07-08T23:05:36.000Z",
+          "wordCount": 254,
+          "title": "GitHub API v4 でページネーションを考慮したクエリの実装",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--74xfStPW--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:ryo_kawamata%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:GitHub%2520API%2520v4%2520%25E3%2581%25A7%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%258D%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E8%2580%2583%25E6%2585%25AE%25E3%2581%2597%25E3%2581%259F%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25AA%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNTY3Y2IxMjRlZi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/nekomimi_daimao/articles/01a07dfe1e3754",
+          "author": "ねこみみだいまおう",
+          "description": "概要\n特定の順番でキーを入力したことを検知する仕組みを作ってみました。\n途中で間違えるとリセットされて1から入力しなければいけなくなります。\nまた、最初の1文字を入力してから一定時間が経つとリセットされるタイムアウト機能もあります。\nTypeChecker.cs\nhttps://gist.github.com/nekomimi-daimao/1dece355acf66b84aaaaa185cff6e271\n\n 動作させた様子\n\nnekomimiと入力されることを期待。タイムアウトは5秒です。\nキー入力そのものは表示されていませんが、こんな感じで入力しています。\n\n\nnekomi kと...",
+          "link": "https://zenn.dev/nekomimi_daimao/articles/01a07dfe1e3754",
+          "publishedOn": "2021-07-08T19:14:17.000Z",
+          "wordCount": 424,
+          "title": "Unityで特定の順番でキー入力したかを判定する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--k7uJWYW8--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%25AD%25E3%2581%2593%25E3%2581%25BF%25E3%2581%25BF%25E3%2581%25A0%25E3%2581%2584%25E3%2581%25BE%25E3%2581%258A%25E3%2581%2586%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Unity%25E3%2581%25A7%25E7%2589%25B9%25E5%25AE%259A%25E3%2581%25AE%25E9%25A0%2586%25E7%2595%25AA%25E3%2581%25A7%25E3%2582%25AD%25E3%2583%25BC%25E5%2585%25A5%25E5%258A%259B%25E3%2581%2597%25E3%2581%259F%25E3%2581%258B%25E3%2582%2592%25E5%2588%25A4%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZGJiYjZkYzI2OC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/mpyw/articles/3c063143fe884a",
+          "author": "mpyw",
+          "description": "実装\n\n      \n        \n        /**\n * [α] T 型から undefined 不可キーの union を抽出\n */\ntype RequiredKeys<T> = {\n  [K in keyof T]-?: Record<any, any> extends Pick<T, K>\n    ? never\n    : K;\n}[keyof T];\n\n/**\n * [β] α を利用し， Passed 型から Req 型の条件を満たさないものだけを抽出\n */\ntype MissingKeys<Req, Passed...",
+          "link": "https://zenn.dev/mpyw/articles/3c063143fe884a",
+          "publishedOn": "2021-07-08T15:50:06.000Z",
+          "wordCount": 429,
+          "title": "TypeScript で「コンストラクタで渡さなかった引数だけ後で必須にする」の型制約を書く",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--Ils-pGZw--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:mpyw%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:TypeScript%2520%25E3%2581%25A7%25E3%2580%258C%25E3%2582%25B3%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25AF%25E3%2582%25BF%25E3%2581%25A7%25E6%25B8%25A1%25E3%2581%2595%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E5%25BC%2595%25E6%2595%25B0%25E3%2581%25A0%25E3%2581%2591%25E5%25BE%258C%25E3%2581%25A7%25E5%25BF%2585%25E9%25A0%2588%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2580%258D%25E3%2581%25AE%25E5%259E%258B%25E5%2588%25B6%25E7%25B4%2584%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fOTRlYzc4ZTg0Ni5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kawacdev/articles/e2b38830d34d10",
+          "author": "kawac",
+          "description": "MacでHHKBを使いたい\nキーボードが日本語配列のMacbookを買ったのだが、英語配列のHHKBを使うために設定したときのメモ。\n\nドライバをインストール\n入力切り替えの設定\nKarabinerでHHKBのキー設定\n\n\n 1.ドライバをインストール\nhttps://www.pfu.fujitsu.com/hhkeyboard/macdownload.html\nここからドライバをインストールしておく。\n\n 2.入力切り替えの設定\nキーボードの設定から\n[Spotlight検索を表示]を無効化\n\n[前の入力ソースを選択] Ctrl + スペース -> Cmd + スペース\n\n\n...",
+          "link": "https://zenn.dev/kawacdev/articles/e2b38830d34d10",
+          "publishedOn": "2021-07-08T10:41:40.000Z",
+          "wordCount": 67,
+          "title": "MacでHHKBを快適に使いたい",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--D0gFZGdE--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kawac%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:Mac%25E3%2581%25A7HHKB%25E3%2582%2592%25E5%25BF%25AB%25E9%2581%25A9%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fM2ZmZDk5NGZiMC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/urotea/articles/0ed9b326d0ec8f",
+          "author": "urotea",
+          "description": "一言で言うと\ngithub actionsで使用するactions/checkout@v2は.git/configを書き換えるので、actions/checkout@v2を使用した後にgitコマンドを使うと思わぬ動きをすることがあるから気をつけてほしい。\nあと、.dockerignoreに.gitを忘れないように。\n\n 何が起きたか\ngithubのプライベートリポジトリを依存に含んでいたため、トークンを使って依存解決していた。\n以下のようなワークフローを書いていた。\n\n      \n        \n        # at github.com/Urotea/sample-priv...",
+          "link": "https://zenn.dev/urotea/articles/0ed9b326d0ec8f",
+          "publishedOn": "2021-07-08T10:34:47.000Z",
+          "wordCount": 201,
+          "title": "actions/checkout@v2はgitconfigを書き換える副作用がある",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--s-isblnf--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:urotea%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:actions%252Fcheckout%2540v2%25E3%2581%25AFgitconfig%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258D%25E6%258F%259B%25E3%2581%2588%25E3%2582%258B%25E5%2589%25AF%25E4%25BD%259C%25E7%2594%25A8%25E3%2581%258C%25E3%2581%2582%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvdS5zdmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/array/articles/9fd8cb5941bb94",
+          "author": "えいあーるれい",
+          "description": "IPアドレス探索ツールを作成し、そのバージョン1.0.0をリリースすることができたので報告します。\nhttps://github.com/Ar-Ray-code/rclshark/releases/tag/v1.0.0\nこの「rclshark」、みなさんがラズパイやJetsonを扱うときに1度は経験する「あ゛ぁ💢」を無くす便利ツールになるかもしれません。ぜひこのツールを体験してほしいです。\n\n 経緯など\nこのツールのコンセプトは至ってシンプル。\n「ネットワーク内のリモートデバイスのIPアドレスを見つける」\nです。みなさんは、このような経験ありませんか？\n\nディスプレイに接続されていないP...",
+          "link": "https://zenn.dev/array/articles/9fd8cb5941bb94",
+          "publishedOn": "2021-07-08T09:52:00.000Z",
+          "wordCount": 133,
+          "title": "LAN内PCのIPアドレス探索ツール「rclshark」について",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--UuY3LC5D--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%2588%25E3%2581%2584%25E3%2581%2582%25E3%2583%25BC%25E3%2582%258B%25E3%2582%258C%25E3%2581%2584%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:LAN%25E5%2586%2585PC%25E3%2581%25AEIP%25E3%2582%25A2%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E6%258E%25A2%25E7%25B4%25A2%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258Crclshark%25E3%2580%258D%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2psWThVVmQ4QUFlSS1pVGJUSTg1RjF3WFhCS004bGZuQURzeGU0PXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/service_503/articles/b7668a820b5856",
+          "author": "HKPudding",
+          "description": "よくこんなコード書いてないですか\n\n      \n        \n          const ref = useRef(null);\n  \n  useEffect(() => {\n    if(ref.current) {\n      ...\n    }\n  }, [ref.current]);\n  \n  return (\n    <div ref={ref} .../>\n  );\n\n\n      \n      これだとマウント時にはレンダリングされない要素に ref を渡した場合に動かなかったりします\n\n      \n        \n        ret...",
+          "link": "https://zenn.dev/service_503/articles/b7668a820b5856",
+          "publishedOn": "2021-07-08T09:26:41.000Z",
+          "wordCount": 155,
+          "title": "[React] ref.current を useEffect の第二引数のリストに書かない",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--FXzvcNUw--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:HKPudding%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:%255BReact%255D%2520ref.current%2520%25E3%2582%2592%2520useEffect%2520%25E3%2581%25AE%25E7%25AC%25AC%25E4%25BA%258C%25E5%25BC%2595%25E6%2595%25B0%25E3%2581%25AE%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZTI4YzU1N2IyNy5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/nekoniki/articles/f8600d1ab7d908",
+          "author": "nekoniki",
+          "description": "はじめに\n今回はTypescript + Reactでstyled-componentsを使う場合のTipsを紹介します。\nstyleプロパティで直接記載するよりもスタイルの管理がしやすい+使い回しやすいといったメリットがあるのでおすすめです。\n※普段はReact Nativeを扱っていますが、styled-componentsに着目した場合の使用感はほぼ同じといっていいので、サンプルコードはReactのものになります。\n\n そもそもstyled-componentsとは\nstyled-componentsは所謂CSS in JSライブラリの一種になります。\n名前が表す通り、JSもし...",
+          "link": "https://zenn.dev/nekoniki/articles/f8600d1ab7d908",
+          "publishedOn": "2021-07-08T05:17:05.000Z",
+          "wordCount": 371,
+          "title": "styled-componentsをTypescriptで使う上でのTips",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--_dogaJNk--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:nekoniki%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:styled-components%25E3%2582%2592Typescript%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2586%25E4%25B8%258A%25E3%2581%25A7%25E3%2581%25AETips%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZjU4Y2YzMzAxMC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/yubrot/articles/eaaeeab742b4a1",
+          "author": "yubrot",
+          "description": "https://github.com/yubrot/llrl\nRustとLLVMを用いて自作言語のコンパイラを実装し、自作言語上にコンパイラ実装を移植して、セルフホスティングを試みました。生成された実行バイナリが完全に一致するところまでこぎつけたので、取り組んだことを順に振り返りたいと思います。\n本記事では、極力RustとLLVMを用いての自作言語のセルフホスティングについての話にフォーカスしたいと思います。筆者の動機や、筆者の言語デザイン上の選択、言語の特徴、言語固有の話などは個人ブログの方に書いたので、こちらも併せてご参照ください。\nhttps://yubrot.github.io/...",
+          "link": "https://zenn.dev/yubrot/articles/eaaeeab742b4a1",
+          "publishedOn": "2021-07-08T04:54:20.000Z",
+          "wordCount": 272,
+          "title": "Rust + LLVMで自作言語をセルフホスティングした話",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--dNVoB8YL--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:yubrot%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Rust%2520%252B%2520LLVM%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E8%25A8%2580%25E8%25AA%259E%25E3%2582%2592%25E3%2582%25BB%25E3%2583%25AB%25E3%2583%2595%25E3%2583%259B%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2k3bTYyV0NtaVFxMkEyeUk2TTNnWFlpdVBzXzFsa2lUUWVhRUZObHc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/uttk/articles/ab7afa61eb481f",
+          "author": "uttk",
+          "description": "この記事について\nwebpackの設定ファイルであるwebpack.config.jsは、TypeScriptで書いてNode.js上で実行できます。しかし、本来であればTypeScriptのソースコードはNode.jsでは実行できないはずです。 この事が気になった私は、今回その仕組みを調べてみたので、この場を借りてその調査結果を共有したいと思います💪\n参照\nhttps://webpack.js.org/configuration/configuration-languages/\n\n 記事の概要\n概要のみ知りたい人に向けて、以下にこの記事で解説する内容のまとめを書いておきます👇\n\n\n...",
+          "link": "https://zenn.dev/uttk/articles/ab7afa61eb481f",
+          "publishedOn": "2021-07-08T04:36:31.000Z",
+          "wordCount": 531,
+          "title": "なぜWebpackの設定はTypeScriptで書けるのか？",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--9SBdy7us--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:uttk%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2581%25AA%25E3%2581%259CWebpack%25E3%2581%25AE%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25AFTypeScript%25E3%2581%25A7%25E6%259B%25B8%25E3%2581%2591%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYzdkM2Q1NTAxNi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/ysmtegsr/articles/c9077709acb67ff3f1d9",
+          "author": "ysmtegsr",
+          "description": "はじめに\nいきなりですが、みなさん読書の管理ってどうしていますか？\n僕は、ブクログ というサービスを使っています。以前は、読書メーター を使っていたんですが、ブクログは本に記載されている ISBN コードや Amazon の Asin コードから本を登録できる[1]ということを知って最近移行しました。\nどうせなら自動化したいなと思い、調べてみると同じことを考えた先人たちがいらっしゃったので参考にしつつやってみたのでその紹介です。\n\n 作ったもの\nKindle で書籍を購入した際に Amazon からメールが届きます。そのメールから使いたい Asin コードだけを抜き出して、購入した書...",
+          "link": "https://zenn.dev/ysmtegsr/articles/c9077709acb67ff3f1d9",
+          "publishedOn": "2021-07-07T14:35:50.000Z",
+          "wordCount": 513,
+          "title": "Kindle で購入した書籍をブクログへ自動で登録する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--bYkWaURG--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:ysmtegsr%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Kindle%2520%25E3%2581%25A7%25E8%25B3%25BC%25E5%2585%25A5%25E3%2581%2597%25E3%2581%259F%25E6%259B%25B8%25E7%25B1%258D%25E3%2582%2592%25E3%2583%2596%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B0%25E3%2581%25B8%25E8%2587%25AA%25E5%258B%2595%25E3%2581%25A7%25E7%2599%25BB%25E9%258C%25B2%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYTMxZDc3MGI1Ny5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kyome/articles/48f551222b339c",
+          "author": "Kyome",
+          "description": "はじめに\nSwiftでは演算子を自分で定義することができます。\nまず、Swiftの演算子は特殊な関数です。\n演算子（Operator）の定義に必要な要素は以下の6つです。\n\n演算子に使う記号/文字\n演算子の優先順位（Precedence）\n演算子の結合性（Associativity）\nオプショナル・チェーンにおける代入の可否（Assignment）\n演算子の種類（中置infix・接頭辞prefix・接尾辞postfix）\n演算子の機能実装\n\n\n 演算子に使える文字\n基本的に使えるのは、変数名、関数名、クラス名などに使える文字ではない文字です。\n代表的なものは、/ = - + ! * ...",
+          "link": "https://zenn.dev/kyome/articles/48f551222b339c",
+          "publishedOn": "2021-07-07T13:51:09.000Z",
+          "wordCount": 3131,
+          "title": "Swift: 演算子の定義について完全に理解した。",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--hCG_kYTk--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Kyome%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Swift%253A%2520%25E6%25BC%2594%25E7%25AE%2597%25E5%25AD%2590%25E3%2581%25AE%25E5%25AE%259A%25E7%25BE%25A9%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E5%25AE%258C%25E5%2585%25A8%25E3%2581%25AB%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lQZG9OcEw1X0Nqd1J5QWp2SGF4emxnS3hlc042QXR6S3g1VjRNNkE9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/rotomx/articles/d064c26d7b15cb",
+          "author": "rotomx",
+          "description": "Slack についに予約送信の機能がリリースされました🎉\n無料ワークスペースから開始し、有料ワークスペースにも随時展開がされています。\n（Enterprise Grid が一番遅いようです）\nhttps://slack.com/intl/ja-jp/help/articles/1500012915082\n\n 使い方\n\n機能が展開されたワークスペースではこのようなポップアップが表示されます\n\n\n\nメッセージフィールドに現れた矢印アイコンをクリックすると送信日時を設定できます\n\n\n\n「カスタム時間」を選択すると、任意の日付、時間を指定することができます\n\n\n\n予約投稿したメッセージはサイドバ...",
+          "link": "https://zenn.dev/rotomx/articles/d064c26d7b15cb",
+          "publishedOn": "2021-07-07T13:24:33.000Z",
+          "wordCount": 50,
+          "title": "Slack の予約送信機能を検証してみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--d9ObGifP--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:rotomx%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Slack%2520%25E3%2581%25AE%25E4%25BA%2588%25E7%25B4%2584%25E9%2580%2581%25E4%25BF%25A1%25E6%25A9%259F%25E8%2583%25BD%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZjdmNDU4NTUxMS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/mizchi/articles/weakref-on-devtool",
+          "author": "mizchi",
+          "description": "ES2021 に入った WeakRef を実験したらハマったのでメモ\n\nWeakRef - JavaScript | MDN\nWeakRef: JavaScriptに弱参照がやってくる（ついでにFinalizationも） - Qiita\n\n\n tl;dr\n\ndevtool を開いた状態で console.log すること自体が参照になる\nWeakRef で取得した参照を console.log すると、それも参照なので、本来開放されるはずでもリソースの開放が行われなくなる\n循環参照オブジェクトでも、内部での循環参照に閉じてる限りちゃんと捨てられる(少なくともv8は)\n\n\n 確かめたこと...",
+          "link": "https://zenn.dev/mizchi/articles/weakref-on-devtool",
+          "publishedOn": "2021-07-07T13:06:28.000Z",
+          "wordCount": 409,
+          "title": "WeakRef と console.log",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--l4V4XJiQ--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:mizchi%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:WeakRef%2520%25E3%2581%25A8%2520console.log%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kawarimidoll/articles/0f5bc71ae633f3",
+          "author": "kawarimidoll",
+          "description": "7/7は七夕🎋です。\nこの絵文字が:tanabata_tree:ということで、Denoでtreeコマンドを作ってみました。\n以下のような表示結果が得られます。\n\n今回の完成品はGitHub Gistに上げています。\nhttps://gist.github.com/kawarimidoll/c6f1c1007370b00bd4d345525490cdb8\n作業記憶（Zenn Scrap）はこちら\n\n はじめに\ntreeコマンドは、現在のディレクトリ以下のファイルを再帰的に階層付けて表示するコマンドです。\nhttps://www.atmarkit.co.jp/ait/articles/180...",
+          "link": "https://zenn.dev/kawarimidoll/articles/0f5bc71ae633f3",
+          "publishedOn": "2021-07-07T11:47:53.000Z",
+          "wordCount": 1043,
+          "title": "DenoでCLIツールを作ってみる：treeコマンドの実装",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--9lKOpJnA--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kawarimidoll%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Deno%25E3%2581%25A7CLI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%25EF%25BC%259Atree%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMjM3OWFjOGQ4Ni5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/yuku/articles/45bb0d6cf3da85",
+          "author": "Yuku Kotani",
+          "description": "仕事で GraphQL を使ったプロダクトに DDD のエッセンスを取り入れたく、GraphQL で部分的にフェッチしたドメインモデルに堅牢な型付けを試みたので、まだまだ荒削りですが紹介します。\n\n やりたいこと\nこのような GraphQL スキーマがあったとします。\n\n      \n        \n        type Person {\n  firstName: String!\n  lastName: String!\n  age: Int!\n}\n\ntype Query {\n  person: Person!\n}\n\n\n      \n      この Person に対して、以下よう...",
+          "link": "https://zenn.dev/yuku/articles/45bb0d6cf3da85",
+          "publishedOn": "2021-07-07T08:53:13.000Z",
+          "wordCount": 891,
+          "title": "GraphQL でフェッチした部分的なモデルのドメインロジックを TypeScript と Proxy で表現する試み",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--pDNMZ-fu--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Yuku%2520Kotani%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:GraphQL%2520%25E3%2581%25A7%25E3%2583%2595%25E3%2582%25A7%25E3%2583%2583%25E3%2583%2581%25E3%2581%2597%25E3%2581%259F%25E9%2583%25A8%25E5%2588%2586%25E7%259A%2584%25E3%2581%25AA%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592%2520TypeScript%2520%25E3%2581%25A8%2520Proxy%2520%25E3%2581%25A7%25E8%25A1%25A8%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E8%25A9%25A6%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lEQVVDNDRXNTlSbWgyMjVIR2ZycENZQmRlNUJNZ0VCaDl3TGY0PXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kiyocy24/articles/uuid-duplicate-time",
+          "author": "kiyocy24",
+          "description": "絶対に重複しないといわれるUUID\nUUIDとはUniversally Unique Identifier の略で、「Universally」つまり将来にわたって重複や偶然の一致が怒らないという前提で使われるIDのことです。\n128ビットで表現されるUUIDは2^128通り（Version 4では固定値があるため2^122通り）あり、その膨大なパターンから将来に渡って重複しないとされています。その特性から、ファイルのハッシュ値に使われたり、DBのキーに使われたりしています。重複しないことが約束されているので、大変使い勝手が良いのです。\nとはいえ、有限桁数である以上は重複が発生する可能...",
+          "link": "https://zenn.dev/kiyocy24/articles/uuid-duplicate-time",
+          "publishedOn": "2021-07-06T15:56:25.000Z",
+          "wordCount": 139,
+          "title": "UUIDを重複させるにはどれだけ時間がかかるのか試してみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--EIkFNF2M--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kiyocy24%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:UUID%25E3%2582%2592%25E9%2587%258D%25E8%25A4%2587%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2581%25AB%25E3%2581%25AF%25E3%2581%25A9%25E3%2582%258C%25E3%2581%25A0%25E3%2581%2591%25E6%2599%2582%25E9%2596%2593%25E3%2581%258C%25E3%2581%258B%25E3%2581%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2llaGQ3YVNJdW1RcVRoVDFsZUxUSXRFUTlHWHh5WFIyQmcxN3dNPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/yubrot/articles/37b6724e41fd3c",
+          "author": "yubrot",
+          "description": "https://github.com/yubrot/llrl/tree/main/llvm0\nLLVMはC APIを提供しており、C++以外のプログラミング言語からも比較的簡単に利用できる。\nRustではllvm-sysというC APIのバインディングが既にあるので、C APIを単に利用するのであればこのクレートを依存に加えればすぐに利用できる。しかし llvm-sys はC APIの純粋なバインディングなので、Rustのコードから使用するには貧相であり、なにより  アンセーフ である。 *-sys は crates.ioの命名規約の一種で、高レベルな抽象は別途提供すべきとされている。\n...",
+          "link": "https://zenn.dev/yubrot/articles/37b6724e41fd3c",
+          "publishedOn": "2021-07-06T11:43:05.000Z",
+          "wordCount": 368,
+          "title": "RustでLLVM-C APIへの高レベル抽象インターフェースを考える",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--3KvpLpGf--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:yubrot%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Rust%25E3%2581%25A7LLVM-C%2520API%25E3%2581%25B8%25E3%2581%25AE%25E9%25AB%2598%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25E6%258A%25BD%25E8%25B1%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A7%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2k3bTYyV0NtaVFxMkEyeUk2TTNnWFlpdVBzXzFsa2lUUWVhRUZObHc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/pik/books/ddad3b8f35b11035752e",
+          "author": "pik",
+          "description": "妻が夫の仕事に興味を持ったことから、プログラムを学ぶドキュメンタリー\nChapter1 は導入から GUI の作成編",
+          "link": "https://zenn.dev/pik/books/ddad3b8f35b11035752e",
+          "publishedOn": "2021-07-06T10:28:39.000Z",
+          "wordCount": 64,
+          "title": "妻、プログラマーにならないってよ Chapter 1",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--CAA5VbZG--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kMDJiZjY2ZDU3LmpwZw==%2Cw_200/v1604564438/og_book_base_ndpqis.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://zenn.dev/karaage0703/articles/db8c663640c68b",
+          "author": "karaage0703",
+          "description": "Pythonでライブラリを作る\nこの記事は、Pythonの基礎とpipでライブラリをインストールしたことあるくらいのレベルの人を想定しています。初心者向けの記事です。\n前提知識として、Pythonのライブラリ・パッケージ・モジュール・クラス・関数の定義や違いに関しては、以下記事あたりを参考にしてください。\nhttps://ai-inter1.com/python-module_package_library/\nこの記事では、Pythonで自作ライブラリを作ります。pip install hogehogeでインストールできるあれですね。\n初心者の方（何を隠そう私も初心者です）だとpip...",
+          "link": "https://zenn.dev/karaage0703/articles/db8c663640c68b",
+          "publishedOn": "2021-07-05T13:55:08.000Z",
+          "wordCount": 182,
+          "title": "Pythonで自分だけのクソライブラリを作る方法",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--oMElaxA4--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:karaage0703%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Python%25E3%2581%25A7%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E3%2582%25AF%25E3%2582%25BD%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/mossan_hoshi/books/209e11ee43e2bb",
+          "author": "mossan_hoshi",
+          "description": "プライベートの時間における一人での勉強方法についてまとめます。\n内容は「基礎編」「読書編」「プログラミング編」の3つに分かれており、本書では「基礎編」を取り扱います",
+          "link": "https://zenn.dev/mossan_hoshi/books/209e11ee43e2bb",
+          "publishedOn": "2021-07-04T13:25:54.000Z",
+          "wordCount": 34,
+          "title": "独習入門 ～基礎編～",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--Osqit20G--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci80YzI2NDE4MTA2LmpwZw==%2Cw_200/v1604564438/og_book_base_ndpqis.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
