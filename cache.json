@@ -358,6 +358,283 @@
           }
         }
       ]
+    },
+    {
+      "title": "Qiita - 人気の記事",
+      "feedUrl": "https://qiita.com/popular-items/feed",
+      "siteUrl": "https://qiita.com/popular-items",
+      "articles": [
+        {
+          "id": "https://qiita.com/ps-ho/items/41427e41351240cf1984?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n案件管理でツールを使用してますが、「各案件の状況が分かるような一覧資料を別途用意して！」ということが多々あります。\nツールと別途資料準備で2重管理になり、手間と不整合で管理に苦労します。\n\nBacklog（案件管理ツール）のAPIを使用して、GASで必要情報のみを取得して自動で一覧化されるようにしてみました…",
+          "link": "https://qiita.com/ps-ho/items/41427e41351240cf1984?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-09T02:34:58.000Z",
+          "wordCount": 616,
+          "title": "GAS＆Backlog APIで必要情報のみを取得して見やすく一覧化する話"
+        },
+        {
+          "id": "https://qiita.com/hikaru_motomiya/items/554ccb3671f7e9cf0aef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "1.はじめに\n\n平素より大変お世話になっております。\nそろそろ暑くなると思いきや、いきなりじめじめしてきて嫌な感じですね。\n\n私はARMテンプレートを利用してリソースをデプロイしていたのですが、これが…",
+          "link": "https://qiita.com/hikaru_motomiya/items/554ccb3671f7e9cf0aef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-09T00:02:31.000Z",
+          "wordCount": 627,
+          "title": "【Azure】Azure Bicepを試してみた"
+        },
+        {
+          "id": "https://qiita.com/Axross_SBiv/items/36c8c5976d89a5e2c28f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nAxrossを運営している藤原です。\n\nAxross とは、エンジニアの\"教育\"と\"実務\"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いのもと、ソフトバンクと社内起業…",
+          "link": "https://qiita.com/Axross_SBiv/items/36c8c5976d89a5e2c28f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T23:51:51.000Z",
+          "wordCount": 395,
+          "title": "AIチャットボットを開発するレシピの紹介"
+        },
+        {
+          "id": "https://qiita.com/soi/items/273e60b2a48d57ae762f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nこれはもともとあったMVVMなWPFアプリに自動テストとDependency-Injection(DI)を実装してみた記録です。変更点はWPFとはあまり関係ないので、C#であれば他のフレーム…",
+          "link": "https://qiita.com/soi/items/273e60b2a48d57ae762f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T22:17:20.000Z",
+          "wordCount": 700,
+          "title": "自作のWPFアプリを後から自動テスト・DI対応にしてみる。その1"
+        },
+        {
+          "id": "https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "役立つYouTubeのチャンネルまとめ\n\n物理数学、アルゴリズム、プログラミング、などなど自分が使う技術に役立ちそうだな、困ったときによく見たなと思うチャンネルを紹介する\n取っ掛かり、ハマりがち、コ…",
+          "link": "https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T17:54:28.000Z",
+          "wordCount": 380,
+          "title": "技術ようつべチャンネル集"
+        },
+        {
+          "id": "https://qiita.com/YutoTada/items/b58f0f0547d15457f6d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "目次\n\n1.概要\n2.はじめに\n3.ウォーターフォール開発とアジャイル開発\n4.スクラムとは\n5.まとめ\n\n1-概要\n\n現在弊社で参加しているAWS主催の内製化支援に向けたトレーニング「ANGEL Do…",
+          "link": "https://qiita.com/YutoTada/items/b58f0f0547d15457f6d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T16:18:42.000Z",
+          "wordCount": 438,
+          "title": "アジャイル開発、スクラムの基本を説明します@ANGEL Dojo"
+        },
+        {
+          "id": "https://qiita.com/ikuosaito1989/items/2f7cd22007e74ae24242?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nテストは絶対書くべきだ！と思っていて、ここ数年は当たり前のようにカバレッジ100%でプログラムを書いてきたこともあり、テストの重要性について考えたこともありませんでした。最近、テストを導…",
+          "link": "https://qiita.com/ikuosaito1989/items/2f7cd22007e74ae24242?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T15:03:16.000Z",
+          "wordCount": 291,
+          "title": "テストを書くのはエンジニアとしてのプライドを保つために必要という考え"
+        },
+        {
+          "id": "https://qiita.com/pepperland_sk/items/ffe361b3bf3abf02ef58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nバイク川崎バイクとは\n\n\n\n\n何でも略したらBKB(ベッドで急に爆睡など)になるネタなどがある。ネタの中では『BKB』というフレーズを多用し、身の回りの事を何でも『BKB』にして表現[11]し、…",
+          "link": "https://qiita.com/pepperland_sk/items/ffe361b3bf3abf02ef58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T13:34:37.000Z",
+          "wordCount": 490,
+          "title": "Slackにバイク川崎バイクを導入する【Python/Slackbot/Mecab】"
+        },
+        {
+          "id": "https://qiita.com/keitaUenishi/items/b09a34bcbf02ffff8e67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n2021年の５月から、大阪のとあるベンチャー企業でエンジニアとして働かせていただいています。\nいっときほどの勢いはなくなった印象ですが、いまもエンジニアへの転職を希望されている方は一定数…",
+          "link": "https://qiita.com/keitaUenishi/items/b09a34bcbf02ffff8e67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T11:48:14.000Z",
+          "wordCount": 357,
+          "title": "完全未経験からエンジニアとしてITベンチャーに就職して２ヶ月の気づき"
+        },
+        {
+          "id": "https://qiita.com/DoggyID/items/ef4dc9a6eb3847f09456?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nMathworks社が運営し，様々な場面で使用される便利なソフト「MATLAB」．\nドローン制御の大会に向けて基本操作を学んでいる最中に，ふと関数を使って遊びたいと思ったので実用的な関数…",
+          "link": "https://qiita.com/DoggyID/items/ef4dc9a6eb3847f09456?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T11:21:40.000Z",
+          "wordCount": 394,
+          "title": "MATLABで遊ぶ"
+        },
+        {
+          "id": "https://qiita.com/miya_gis/items/5cf30bc857d12c23de75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの投稿は、RPAツール「UiPath」の 製品歴史を振り返ってみる 記事です。\n\nRPAツールUiPathのコミュニティ「UiPath Friends」が企画する「UiPathブログ発信…",
+          "link": "https://qiita.com/miya_gis/items/5cf30bc857d12c23de75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T10:27:36.000Z",
+          "wordCount": 566,
+          "title": "【UiPath】過去の製品バージョンを振り返る（2016-2021）"
+        },
+        {
+          "id": "https://qiita.com/TakahiRoyte/items/a7c458dc18cd0dcc80c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "サブ業務チームのスクラムマスターのススメでデイリーレトロスペクティブはじめました。\n同期的に集まらずMiroのボードに各自Keep&Problemを書き出すようにしているんですが、\n忘れそうな自分と…",
+          "link": "https://qiita.com/TakahiRoyte/items/a7c458dc18cd0dcc80c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T10:20:05.000Z",
+          "wordCount": 328,
+          "title": "Power AutomateでTeamsの特定のスレッドに定期リマインダーを送る"
+        },
+        {
+          "id": "https://qiita.com/njm2360/items/c8a15047cde43617f6ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nESP32をArduinoIDEで開発していると妙にコンパイルが遅い気がします。AVRに比べれば機能が多いのでコンパイルに時間がかかるのはわかるのですが、１度ビルドし直すだけでも長いプロ…",
+          "link": "https://qiita.com/njm2360/items/c8a15047cde43617f6ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T09:13:27.000Z",
+          "wordCount": 357,
+          "title": "Arduino IDE でESP32のコンパイル時間を短縮する方法"
+        },
+        {
+          "id": "https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n2021年にOpenAIによって公開された、テキストを画像に変換する「DALL-E」についてまとめました。\n\n生成した画像\n\n「バレリーナの衣装を着て、犬の散歩をする赤ちゃん大根」の画像です…",
+          "link": "https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T09:02:05.000Z",
+          "wordCount": 317,
+          "title": "テキストから画像を生成する：Zero-Shot Text-to-Image Generation [Ramesh+, 2021]"
+        },
+        {
+          "id": "https://qiita.com/ybsh2891/items/afd741153593d2d9e021?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n先人に作ってもらったデータ変換用のPythonスクリプトを部署内で使用していたのだが、Python環境のないメンバーに展開するためにexe化することにした。 \nひとまずPyinstalle…",
+          "link": "https://qiita.com/ybsh2891/items/afd741153593d2d9e021?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T07:41:26.000Z",
+          "wordCount": 432,
+          "title": "Pythonスクリプトのexe化"
+        },
+        {
+          "id": "https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "以下の記事を読みました。\n\nCookieのPath属性は本当に安全性に寄与しないのか\n\n結論として以下となっています。\n\n\n結論。Path属性は特殊な状況下ではある程度安全性に寄与する\nPath属性は、これ…",
+          "link": "https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T03:45:40.000Z",
+          "wordCount": 358,
+          "title": "Re: CookieのPath属性は本当に安全性に寄与しないのか"
+        },
+        {
+          "id": "https://qiita.com/taka_yayoi/items/fcf396cf75418e87ec76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Applying Natural Language Processing to Healthcare Text at Scale - The Databricks Blogの翻訳です。\n\n\nこの記事はJ…",
+          "link": "https://qiita.com/taka_yayoi/items/fcf396cf75418e87ec76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T02:22:22.000Z",
+          "wordCount": 392,
+          "title": "ヘルスケアにおける大規模テキストデータへの自然言語処理の適用"
+        },
+        {
+          "id": "https://qiita.com/d_date/items/db540e9ed127b1b23e40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "iOSアプリをApp Storeではなく、Webサービスなどからベータ版のアプリを配信する方法を Ad hoc 配信といいます。\nAd hoc配信はiOSアプリ開発の黎明期から行われておりますが、…",
+          "link": "https://qiita.com/d_date/items/db540e9ed127b1b23e40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T01:49:09.000Z",
+          "wordCount": 873,
+          "title": "Ad hoc配信をやめてTestFlightで配信する"
+        },
+        {
+          "id": "https://qiita.com/EGJ-Ken_Kuwano/items/1c13f6ded4174c7fbddf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "1. 課題\n\n　本記事では「Widgetとリソースを切り離す方法」を説明しており、この記事を読むと\"Widgetを使用してUIを構築する際の問題とその解消方法\"が理解できるようになります。\n　Wid…",
+          "link": "https://qiita.com/EGJ-Ken_Kuwano/items/1c13f6ded4174c7fbddf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T01:44:47.000Z",
+          "wordCount": 325,
+          "title": "[UE4] Widgetとリソースを切り離す方法"
+        },
+        {
+          "id": "https://qiita.com/Takazudo/items/895376bef5c31deebc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "前回: https://qiita.com/Takazudo/items/59a1f44ecdc01e95604f\n\n「先輩さん」\n『はい、後輩ちゃん』\n「前話してた1,000万の見積もりの話なんです…",
+          "link": "https://qiita.com/Takazudo/items/895376bef5c31deebc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T17:03:36.000Z",
+          "wordCount": 447,
+          "title": "俺の見積もりがこんなに安いわけがない: 第2話 We will specialize"
+        },
+        {
+          "id": "https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nUnityはマルチプラットフォーム対応のゲームエンジンなのでiOSやAndroid以外にWindows向けのバイナリを生成することも出来ます。\n\nなので「ちょっとしたゲームが出来たから配布して…",
+          "link": "https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T16:00:31.000Z",
+          "wordCount": 340,
+          "title": "ZipでUnityのexeファイルを配るの止めたい。InnoSetupを使おう"
+        },
+        {
+          "id": "https://qiita.com/zakuroishikuro/items/db5390e0d0c321f79718?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "前回の記事でコメントいただいたので。\n\nこんな感じになる。\n前回はランダムでルーン文字に置換しただけだったけど、今回のは頑張ればちゃんと読める。\n\n\n\n前回の記事のものを改造していきます。\n\nhttps://…",
+          "link": "https://qiita.com/zakuroishikuro/items/db5390e0d0c321f79718?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T15:39:25.000Z",
+          "wordCount": 903,
+          "title": "一般サイトがハンター専用サイトになるChrome拡張を作る"
+        },
+        {
+          "id": "https://qiita.com/flankids/items/e9ed1a25a7dd8d61f633?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Newポケモンスナップ、いろんなフィルタがあって現代の写真遊びに則ったカメラゲームらしさがあって凄く素敵ですね。\n\n　\n\nいろんなフィルタがある中、シルエットフィルタはゲームらしいフィルタで意外と他のゲ…",
+          "link": "https://qiita.com/flankids/items/e9ed1a25a7dd8d61f633?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T15:33:51.000Z",
+          "wordCount": 718,
+          "title": "[Unity]カメラに映る画面をおしゃれにシルエット化する"
+        },
+        {
+          "id": "https://qiita.com/Rui1009/items/6334722baeb1ce85158f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n僕は現在ITスタートアップでソフトウェアエンジニアとして働いています。プログラミングの学習歴はおおよそ2年です。\n先日、最新の技術記事が自動配信されるSlackアプリ「Winkie(ウィ…",
+          "link": "https://qiita.com/Rui1009/items/6334722baeb1ce85158f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T13:50:52.000Z",
+          "wordCount": 352,
+          "title": "文系エンジニア未経験がアプリケーションを作れるようになるまで"
+        },
+        {
+          "id": "https://qiita.com/dtakkiy/items/3592d4e94b3610ebc54a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "３大クラウドサービスを比較しました。\n(2021/07/07更新)\n\n⭐ 概要\n\n\n\n⭐ サービス\n\n\n\n⭐ 価格\n\n仮想マシンの１台あたりの価格比較。\n\n\n\n⭐ Googleトレンド\n\n集計期間: 2011/06/08…",
+          "link": "https://qiita.com/dtakkiy/items/3592d4e94b3610ebc54a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T05:47:49.000Z",
+          "wordCount": 683,
+          "title": "AWS, Azure, GCP ３大クラウドサービスを比較しました!"
+        },
+        {
+          "id": "https://qiita.com/ohakutsu/items/0c108469b95be1df6064?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nパフォーマンスが事業に影響を与えるという話はよく聞くが、実際にどんな事例があるのだろうかと思ったので調べてみました。\n他にも多く事例があると思うので、他にもあったらコメントいただけると嬉…",
+          "link": "https://qiita.com/ohakutsu/items/0c108469b95be1df6064?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T05:38:15.000Z",
+          "wordCount": 332,
+          "title": "Webサイトのパフォーマンス改善がもたらした事例をまとめてみた"
+        },
+        {
+          "id": "https://qiita.com/geeorgey/items/ea60afe0c44a5f9db483?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こちらの具体的な開発についてのpostです。\nhttps://qiita.com/geeorgey/items/ace37bd92841c9d1a378\n\n開発元となるソースコードはこちらです。\nht…",
+          "link": "https://qiita.com/geeorgey/items/ea60afe0c44a5f9db483?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T02:59:16.000Z",
+          "wordCount": 729,
+          "title": "pythonを使ってリアクティブなWebアプリを作りたい【開発編】"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/43873ffd84b102d95929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/e99h2121/items/bb9e22af744dec95caa0\n\nの続編のようなポエム。\n\n「できるかできないかわからない状態」の物事に対して「いつまでになら…",
+          "link": "https://qiita.com/e99h2121/items/43873ffd84b102d95929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T21:21:46.000Z",
+          "wordCount": 323,
+          "title": "「いつまでにならできますか？」に対抗する、少しでも自信を持って見積もるための知恵"
+        },
+        {
+          "id": "https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "TL; NR\n\nPyWebIOっていう、Pythonユーザ向けでけっこうイケてる(死語)Webアプリケーションフレームワークを発見した。(正確にはスタックオーバーフローのコメントで知った)\nなのに日…",
+          "link": "https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T11:37:37.000Z",
+          "wordCount": 538,
+          "title": "「PyWebIO」があればPython 100%でWebアプリ作れるってマジ！？"
+        },
+        {
+          "id": "https://qiita.com/Kohei_2424/items/e500477cc5f7307b08ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "1.はじめに\n\n皆さん、こんにちは。\n新卒入社2年目の Web エンジニアです。\n\nこの度、AWS が主催する疑似プロジェクト「ANGEL DOJO」に参加する機会をいただいたので、なぜインフラでもな…",
+          "link": "https://qiita.com/Kohei_2424/items/e500477cc5f7307b08ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T14:03:36.000Z",
+          "wordCount": 469,
+          "title": "【ANGEL Dojo】なぜ入社3年未満のWebエンジニアがAWSを学ぶのか"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
