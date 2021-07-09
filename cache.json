@@ -406,7 +406,7 @@
           "description": "役立つYouTubeのチャンネルまとめ\n\n物理数学、アルゴリズム、プログラミング、などなど自分が使う技術に役立ちそうだな、困ったときによく見たなと思うチャンネルを紹介する\n取っ掛かり、ハマりがち、コ…",
           "link": "https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-08T17:54:28.000Z",
-          "wordCount": 380,
+          "wordCount": 381,
           "title": "技術ようつべチャンネル集"
         },
         {
@@ -442,7 +442,7 @@
           "description": "はじめに\n\n2021年の５月から、大阪のとあるベンチャー企業でエンジニアとして働かせていただいています。\nいっときほどの勢いはなくなった印象ですが、いまもエンジニアへの転職を希望されている方は一定数…",
           "link": "https://qiita.com/keitaUenishi/items/b09a34bcbf02ffff8e67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-08T11:48:14.000Z",
-          "wordCount": 357,
+          "wordCount": 362,
           "title": "完全未経験からエンジニアとしてITベンチャーに就職して２ヶ月の気づき"
         },
         {
@@ -505,7 +505,7 @@
           "description": "以下の記事を読みました。\n\nCookieのPath属性は本当に安全性に寄与しないのか\n\n結論として以下となっています。\n\n\n結論。Path属性は特殊な状況下ではある程度安全性に寄与する\nPath属性は、これ…",
           "link": "https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-08T03:45:40.000Z",
-          "wordCount": 358,
+          "wordCount": 363,
           "title": "Re: CookieのPath属性は本当に安全性に寄与しないのか"
         },
         {
@@ -514,7 +514,7 @@
           "description": "Applying Natural Language Processing to Healthcare Text at Scale - The Databricks Blogの翻訳です。\n\n\nこの記事はJ…",
           "link": "https://qiita.com/taka_yayoi/items/fcf396cf75418e87ec76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-08T02:22:22.000Z",
-          "wordCount": 392,
+          "wordCount": 388,
           "title": "ヘルスケアにおける大規模テキストデータへの自然言語処理の適用"
         },
         {
@@ -550,7 +550,7 @@
           "description": "概要\n\nUnityはマルチプラットフォーム対応のゲームエンジンなのでiOSやAndroid以外にWindows向けのバイナリを生成することも出来ます。\n\nなので「ちょっとしたゲームが出来たから配布して…",
           "link": "https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-07T16:00:31.000Z",
-          "wordCount": 340,
+          "wordCount": 342,
           "title": "ZipでUnityのexeファイルを配るの止めたい。InnoSetupを使おう"
         },
         {
@@ -604,7 +604,7 @@
           "description": "こちらの具体的な開発についてのpostです。\nhttps://qiita.com/geeorgey/items/ace37bd92841c9d1a378\n\n開発元となるソースコードはこちらです。\nht…",
           "link": "https://qiita.com/geeorgey/items/ea60afe0c44a5f9db483?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-07T02:59:16.000Z",
-          "wordCount": 729,
+          "wordCount": 724,
           "title": "pythonを使ってリアクティブなWebアプリを作りたい【開発編】"
         },
         {
@@ -631,8 +631,285 @@
           "description": "1.はじめに\n\n皆さん、こんにちは。\n新卒入社2年目の Web エンジニアです。\n\nこの度、AWS が主催する疑似プロジェクト「ANGEL DOJO」に参加する機会をいただいたので、なぜインフラでもな…",
           "link": "https://qiita.com/Kohei_2424/items/e500477cc5f7307b08ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-05T14:03:36.000Z",
-          "wordCount": 469,
+          "wordCount": 466,
           "title": "【ANGEL Dojo】なぜ入社3年未満のWebエンジニアがAWSを学ぶのか"
+        }
+      ]
+    },
+    {
+      "title": "GIGAZINE",
+      "feedUrl": "https://gigazine.net/news/rss_atom/",
+      "siteUrl": "https://gigazine.net/",
+      "articles": [
+        {
+          "id": "https://gigazine.net/news/20210709-anom-phone-arcaneos-fbi-backdoor/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210709-anom-phone-arcaneos-fbi-backdoor/",
+          "publishedOn": "2021-07-09T12:00:00.000Z",
+          "wordCount": 178,
+          "title": "800人の犯罪者を逮捕したFBIおとり捜査用の暗号化通信アプリ「Anom」の実物はどんなものなのか？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-firefox-dns-over-https-canada/",
+          "author": null,
+          "description": "有効化している、Domain Name System(DNS)との通信を暗号化するプロトコル「DNS over HTTPS(DoH)」を、カナダのユーザーに対しても有効化することを発表しました。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-firefox-dns-over-https-canada/",
+          "publishedOn": "2021-07-09T11:00:00.000Z",
+          "wordCount": 201,
+          "title": "Firefoxが通信暗号化システム「DNS over HTTPS」の対象地域拡大を発表、一体何が変わるのか？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-square-building-bitcoin-hard-wallet/",
+          "author": null,
+          "description": "Square」のハードウェア担当責任者を務めるジェシー・ドロガスカー氏が、「ビットコインのハードウェアウォレット」を作る計画をTwitterで明らかにしました。SquareはTwitterのCEOであるジャック・ドーシー氏が設立した企業であり、ドーシー氏もドロガスカー氏の発言を確認しています。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-square-building-bitcoin-hard-wallet/",
+          "publishedOn": "2021-07-09T10:00:00.000Z",
+          "wordCount": 201,
+          "title": "Twitter創業者のモバイル決済企業・Squareが「ビットコインのハードウェアウォレット」を開発すると発表"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-headline/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210709-headline/",
+          "publishedOn": "2021-07-09T09:10:00.000Z",
+          "wordCount": 562,
+          "title": "2021年7月9日のヘッドラインニュース"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-rare-gene-variants-protect-obesity/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210709-rare-gene-variants-protect-obesity/",
+          "publishedOn": "2021-07-09T08:00:00.000Z",
+          "wordCount": 184,
+          "title": "3000人に1人は「太りにくい遺伝子」を持っている可能性があると判明"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-ps4-hard-to-buy-as-ps5/",
+          "author": null,
+          "description": "PlayStation 5(PS5)」は、ソニー公式から「供給不足は2022年になっても続く可能性がある」という声明があったように、かつてないほど入手が困難になっています。入手が困難なのはPS5やXbox Series Xといった次世代ゲーム機だけではなく、PlayStation 4(PS4)やXbox Oneといった前世代のゲーム機も同様であると、ゲームメディアのKotakuが報じました。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-ps4-hard-to-buy-as-ps5/",
+          "publishedOn": "2021-07-09T07:02:00.000Z",
+          "wordCount": 226,
+          "title": "PS5やXbox Series XだけでなくPS4＆Xbox Oneも品薄状態に"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-sony-upside-down-ps5/",
+          "author": null,
+          "description": "ゴッド・オブ・ウォーをプレイして1日を終える父親」というムービー広告をTwitterにアップしましたが、すぐに投稿が削除されました。この理由は「PS5を上下逆に設置していたこと」だとゲーム系ニュースメディアのKotakuが報じています。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-sony-upside-down-ps5/",
+          "publishedOn": "2021-07-09T06:00:00.000Z",
+          "wordCount": 177,
+          "title": "ソニーがうっかりPS5を上下逆に設置したCMを公開してしまう"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-github-copilot-copyright/",
+          "author": null,
+          "description": "GitHub Copilot」をリリースしました。Microsoft傘下のGitHubが、ライセンスを問わずGitHub上のあらゆるソースコードを学習して作られたCopilotを商業利用することについて、「著作権的に問題があるのではないか？」との議論が巻き起こっています。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-github-copilot-copyright/",
+          "publishedOn": "2021-07-09T05:06:00.000Z",
+          "wordCount": 178,
+          "title": "GitHubのソースコードで学習したプログラミングAI「Copilot」は著作権侵害なのか？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-marvel-what-if-trailer/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210709-marvel-what-if-trailer/",
+          "publishedOn": "2021-07-09T04:25:00.000Z",
+          "wordCount": 177,
+          "title": "「もしヒーローたちに別の運命が待っていたら」を描くマーベル初のオリジナルアニメシリーズ「ホワット・イフ…？」最新予告編公開"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-google-pay-balance-card-nfc-android/",
+          "author": null,
+          "description": "NFCでGoogle Payの残高を支払える仮想カード「Google Pay balance」の展開がアメリカでスタートしました。報道によると、Googleは「まもなく『全ての』Androidユーザーで利用できるようになる予定です」と回答したとのことです。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-google-pay-balance-card-nfc-android/",
+          "publishedOn": "2021-07-09T04:00:00.000Z",
+          "wordCount": 215,
+          "title": "Google Payの残高を現実でも使えるようにする仮想カード「Google Pay balance」が登場"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-microsoft-giving-employees-pandemic-bonus/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210709-microsoft-giving-employees-pandemic-bonus/",
+          "publishedOn": "2021-07-09T03:30:00.000Z",
+          "wordCount": 185,
+          "title": "16万円の新型コロナパンデミックボーナスをMicrosoftが従業員に支給"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-hong-kong-seizes-electronic-goods/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210709-hong-kong-seizes-electronic-goods/",
+          "publishedOn": "2021-07-09T03:15:00.000Z",
+          "wordCount": 205,
+          "title": "2500個以上のCPUの密輸を税関が阻止、体に巻き付けて密輸を試みた例も"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-moderna-mrna-vaccine-flu/",
+          "author": null,
+          "description": "開発したモデルナが、季節性インフルエンザに対する予防効果があるとされるmRNAワクチン「mRNA-1010」の第1／2相の臨床試験を開始したことを発表しました。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-moderna-mrna-vaccine-flu/",
+          "publishedOn": "2021-07-09T03:05:00.000Z",
+          "wordCount": 202,
+          "title": "モデルナがmRNAを用いたインフルエンザワクチンの臨床試験を開始"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-access/",
+          "author": null,
+          "description": "GIGAZINEシークレットクラブの有料メンバー限定ですが、2021年8月31日までは誰でも閲覧可能です。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-access/",
+          "publishedOn": "2021-07-09T03:00:00.000Z",
+          "wordCount": 405,
+          "title": "2021年度6月分のGIGAZINEのアクセス解析結果"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-qualcomm-smartphone-for-snapdragon-insiders/",
+          "author": null,
+          "description": "SoCのSnapdragonシリーズを開発しているアメリカの半導体製造大手・Qualcommが、Snapdragonファンのコミュニティ「Snapdragon Insiders」のユーザー向けに、初となるオリジナルスマートフォンを発売することを現地時間の2021年7月8日に発表しました。「Smartphone for Snapdragon Insiders」と呼ばれる新たなスマートフォンはASUSによって設計され、5Gモデム内蔵のSoC「Snapdragon 888」を搭載しているほか、さまざまなQualcommのテクノロジーを体験できる機種になっているとのことです。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-qualcomm-smartphone-for-snapdragon-insiders/",
+          "publishedOn": "2021-07-09T02:55:00.000Z",
+          "wordCount": 347,
+          "title": "Qualcommが初のオリジナルスマートフォンを日本でも発売へ、Snapdragon 888や最新テクノロジー搭載で価格は税込16万4880円"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-black-thunder-sugar-off/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210709-black-thunder-sugar-off/",
+          "publishedOn": "2021-07-09T02:45:00.000Z",
+          "wordCount": 178,
+          "title": "「ブラックサンダーひとくちサイズ糖質50%OFF」はいつものブラックサンダーとどう違うのか食べて確かめてみた"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-uk-animal-welfare-bill-ban-boiling-lobsters/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210709-uk-animal-welfare-bill-ban-boiling-lobsters/",
+          "publishedOn": "2021-07-09T02:30:00.000Z",
+          "wordCount": 236,
+          "title": "イギリスがロブスターやタコをそのまま茹でる行為を禁止する可能性、「甲殻類や軟体動物も動物愛護の対象とすべき」という新法により"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-google-play-lawsuit-ignores/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210709-google-play-lawsuit-ignores/",
+          "publishedOn": "2021-07-09T02:17:00.000Z",
+          "wordCount": 215,
+          "title": "Googleが独占禁止法違反の訴訟に「無益」と真っ向反論"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-google-fintech/",
+          "author": null,
+          "description": "pring(プリン)」を買収することを日本経済新聞が報じました。「pring」の親会社の1つであるメタップスから、自社が発表したものではないとのリリースが出たものの、話題は波紋を広げています。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-google-fintech/",
+          "publishedOn": "2021-07-09T02:12:00.000Z",
+          "wordCount": 207,
+          "title": "Googleがスマホ決済の「pring」を買収するとの報道が話題に"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-nintendo-switch-oled-hallway-guy/",
+          "author": null,
+          "description": "Nintendo Switch(有機ELモデル)」が発表されました。突然の発表であったため多くのゲーマーの注目を集めることとなった新モデルですが、新モデルと同じくらいSNS上で話題になったのが、公式ムービーで登場した「廊下でひとりゲームする男性」です。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-nintendo-switch-oled-hallway-guy/",
+          "publishedOn": "2021-07-09T01:01:00.000Z",
+          "wordCount": 210,
+          "title": "「Nintendo Switch(有機ELモデル)」の発表ムービーで登場した「廊下でひとりゲームする男性」にインターネットユーザーから総ツッコミ"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-covid-19-fecal-microbiota-transplant/",
+          "author": null,
+          "description": "糞便移植(FMT)」が効果的である可能性が指摘されており、臨床試験も予定されています。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-covid-19-fecal-microbiota-transplant/",
+          "publishedOn": "2021-07-09T00:00:00.000Z",
+          "wordCount": 213,
+          "title": "「他人の糞便」を腸内に移植すると新型コロナの回復が早まる可能性、すでに臨床試験もスタート"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-human-brains-temporal-activity-pattern/",
+          "author": null,
+          "description": "神経細胞(ニューロン)が活動電位に達する「発火」を脳活動の尺度として扱ってきました。ところが、アメリカの研究チームが発表した新たな論文では、ニューロンが発火する頻度だけでなく、「発火するタイミング」が脳において重要な役割を果たしている可能性が示唆されています。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-human-brains-temporal-activity-pattern/",
+          "publishedOn": "2021-07-08T23:00:00.000Z",
+          "wordCount": 187,
+          "title": "人間の学習にはニューロンが発火するタイミングと脳波の「ズレ」が関係しているかもしれない"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-ai-weapons-war/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210709-ai-weapons-war/",
+          "publishedOn": "2021-07-08T22:00:00.000Z",
+          "wordCount": 183,
+          "title": "AI兵器や自律型ドローンが戦場にもたらす危機とは？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-apple-private-relay-riba/",
+          "author": null,
+          "description": "リスクベース認証(RIBA)と呼びます。Appleは新たなプライバシー保護機能として「プライベートリレー」を発表していますが、プライベートリレーはユーザーのIPアドレスを暗号化するものであるため、IPアドレスを利用するRIBAを無力化させるのではないかとデジタルアイデンティティの専門家であるフロリアン・フォースター氏が指摘しています。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-apple-private-relay-riba/",
+          "publishedOn": "2021-07-08T21:00:00.000Z",
+          "wordCount": 188,
+          "title": "Appleの新プライバシー保護機能「プライベートリレー」はリスクベース認証を無力化させる"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-rog-phone-5-ultimate-kunai-3-gamepad/",
+          "author": null,
+          "description": "ROG Phone 5 Ultimate」は、ゲーミングスマートフォン「ROG Phone」の最新＆最上位モデルでゲーミングに特化した機体です。そんなROG Phone 5 Ultimateのゲームを、専用コントローラー「ROG Kunai 3 Gamepad」を使って触ってみました。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-rog-phone-5-ultimate-kunai-3-gamepad/",
+          "publishedOn": "2021-07-08T14:00:00.000Z",
+          "wordCount": 329,
+          "title": "ASUSのゲーミングスマホ最上位モデル「ROG Phone 5 Ultimate」ゲーム機能レビュー＆専用外付けコントローラー「ROG Kunai 3 Gamepad」を使ってみた"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-nakau-sudachi-oroshi-udon-shirasu/",
+          "author": null,
+          "description": "すだちおろしうどん」に、しらすをのせた「釜あげしらすのすだちおろしうどん」が2021年7月8日(木)から登場しています。瀬戸内産の釜あげしらすに、酸味が爽やかなすだちを合わせた一品は、大根おろしの辛みも相まってさっぱりした後味に仕上がっているとのことなので、実際になか卯で買って食べてみました。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-nakau-sudachi-oroshi-udon-shirasu/",
+          "publishedOn": "2021-07-08T13:00:00.000Z",
+          "wordCount": 179,
+          "title": "すだち＆大根おろしのさっぱり感でしらすのうまみが引き立つ「釜あげしらすのすだちおろしうどん」をなか卯で食べてみた"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-produce-computer-chip-fab/",
+          "author": null,
+          "description": "予測しました。需要がひっ迫する半導体の製造に対する取り組みについて、海外紙のワシントン・ポストが紹介しています。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-produce-computer-chip-fab/",
+          "publishedOn": "2021-07-08T12:00:00.000Z",
+          "wordCount": 170,
+          "title": "急増する半導体需要に対し製造工場はどのように対応しているのか？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-iceland-experiment-shorter-working/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210708-iceland-experiment-shorter-working/",
+          "publishedOn": "2021-07-08T11:00:00.000Z",
+          "wordCount": 185,
+          "title": "労働時間を週35時間に減らす実験を約7年続けたアイスランドが得た結論は？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-coronagame/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210708-coronagame/",
+          "publishedOn": "2021-07-08T10:00:00.000Z",
+          "wordCount": 198,
+          "title": "新型コロナへの対応により感染拡大がどのように変化するのかをシミュレーションできるゲーム「CoronaGame」"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-headline/",
+          "author": null,
+          "description": "続きを読む...",
+          "link": "https://gigazine.net/news/20210708-headline/",
+          "publishedOn": "2021-07-08T09:29:00.000Z",
+          "wordCount": 434,
+          "title": "2021年7月8日のヘッドラインニュース"
         }
       ]
     }
