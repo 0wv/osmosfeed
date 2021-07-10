@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T12:15:38.531Z</id>
+    <id>urn:2021-07-10T00:54:03.361Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T12:15:38.531Z</updated>
+    <updated>2021-07-10T00:54:03.361Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[古代ユダヤ人は戒律で禁じられた食べ物を普通に食べていたことが判明]]></title>
+        <id>https://gigazine.net/news/20210710-jewish-non-kosher-fish/</id>
+        <link href="https://gigazine.net/news/20210710-jewish-non-kosher-fish/"/>
+        <updated>2021-07-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ユダヤ教の食物に関する戒律は「カシュルート」と呼ばれ、非常に厳しいことで知られています。そんなユダヤ教の戒律では、「ヒレやウロコがない魚を食べてはいけない」と定められていますが、古代のユダヤ教徒はウロコがない魚もよく食べていたことが判明しました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUSのゲーミングヘッドセット「ROG STRIX GO BT」レビュー、ゲーミングを超える音質と使いやすさ＆フル充電で最大45時間使用可能]]></title>
+        <id>https://gigazine.net/news/20210709-rog-strix-go-bt/</id>
+        <link href="https://gigazine.net/news/20210709-rog-strix-go-bt/"/>
+        <updated>2021-07-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ROG Phone 5シリーズ」と同時に登場した「ROG Strix Go BT」は、Qualcomm aptX Adaptive audio technologyによる低遅延＆高品質＆シームレスなサウンドを実現し、さらにアクティブノイズキャンセリング技術により周囲の音を遮断してゲームに集中できる環境を生み出してくれるとのことなので、実際に使ってみました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肉の味を引き立てるピリ辛ハラペーニョソースがたっぷり入った「ヤラピノホットソースワッパー」などバーガーキングの新作3品を食べてみた]]></title>
+        <id>https://gigazine.net/news/20210709-burgerking-Jalapeno-hot-sauce/</id>
+        <link href="https://gigazine.net/news/20210709-burgerking-Jalapeno-hot-sauce/"/>
+        <updated>2021-07-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ハラペーニョを使った緑色の「ヤラピノホットソース」をたっぷり挟んだ「ヤラピノホットソースワッパー」「チキン・ヤラピノバーガー」「ヤラピノ＆チーズ ホットドッグ」の3品が2021年7月9日からバーガーキングに登場しています。「ヤラピノホットソース」はハラペーニョをベースにキレのいい辛さに仕上げたソースとのことで、実際に3品とも食べてソースの味や肉との相性を確かめてみました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[800人の犯罪者を逮捕したFBIおとり捜査用の暗号化通信アプリ「Anom」の実物はどんなものなのか？]]></title>
         <id>https://gigazine.net/news/20210709-anom-phone-arcaneos-fbi-backdoor/</id>
@@ -249,6 +282,23 @@ prettierは--list-differentオプションを付けると差分があった場�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[window.onloadが効かない。そんな時はoverflow:auto;を探そう]]></title>
+        <id>https://qiita.com/kurimoto2011/items/9fd78b99c156af7085c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kurimoto2011/items/9fd78b99c156af7085c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-09T00:35:38.000Z</updated>
+        <summary type="html"><![CDATA[ほぼタイトルで完結していますが、一応どこでoverflow:auto;を探せばよいかほんの少しだけ書きます。
+
+body{
+     overflow:auto;
+}
+/* もしくは */
+html{
+     over…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ゲームのサーバを作ろう with Django REST Framework]]></title>
         <id>https://zenn.dev/kacky/articles/f9e212749fcb1540ceec</id>
         <link href="https://zenn.dev/kacky/articles/f9e212749fcb1540ceec"/>
@@ -425,6 +475,21 @@ nekomi kと...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【JAMstack】Next.js × Firebase で JAMstack なブログサイトを作る①［概要］]]></title>
+        <id>https://qiita.com/nemutas/items/555c75f4473f605123fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/nemutas/items/555c75f4473f605123fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-08T17:46:06.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+
+
+Next.jsの勉強を始め、公式のチュートリアルでブログサイトを作成しました。
+その過程で、JAMstackとういうアーキテクチャを知り、最近勉強していたFirebaseと組み合わせると自分…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[アジャイル開発、スクラムの基本を説明します@ANGEL Dojo]]></title>
         <id>https://qiita.com/YutoTada/items/b58f0f0547d15457f6d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/YutoTada/items/b58f0f0547d15457f6d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -533,42 +598,6 @@ type MissingKeys<Req, Passed...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[完全未経験からエンジニアとしてITベンチャーに就職して２ヶ月の気づき]]></title>
-        <id>https://qiita.com/keitaUenishi/items/b09a34bcbf02ffff8e67?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/keitaUenishi/items/b09a34bcbf02ffff8e67?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-08T11:48:14.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-2021年の５月から、大阪のとあるベンチャー企業でエンジニアとして働かせていただいています。
-いっときほどの勢いはなくなった印象ですが、いまもエンジニアへの転職を希望されている方は一定数…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATLABで遊ぶ]]></title>
-        <id>https://qiita.com/DoggyID/items/ef4dc9a6eb3847f09456?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/DoggyID/items/ef4dc9a6eb3847f09456?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-08T11:21:40.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-Mathworks社が運営し，様々な場面で使用される便利なソフト「MATLAB」．
-ドローン制御の大会に向けて基本操作を学んでいる最中に，ふと関数を使って遊びたいと思ったので実用的な関数…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[労働時間を週35時間に減らす実験を約7年続けたアイスランドが得た結論は？]]></title>
-        <id>https://gigazine.net/news/20210708-iceland-experiment-shorter-working/</id>
-        <link href="https://gigazine.net/news/20210708-iceland-experiment-shorter-working/"/>
-        <updated>2021-07-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MacでHHKBを快適に使いたい]]></title>
         <id>https://zenn.dev/kawacdev/articles/e2b38830d34d10</id>
         <link href="https://zenn.dev/kawacdev/articles/e2b38830d34d10"/>
@@ -644,16 +673,6 @@ RPAツールUiPathのコミュニティ「UiPath Friends」が企画する「UiP
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型コロナへの対応により感染拡大がどのように変化するのかをシミュレーションできるゲーム「CoronaGame」]]></title>
-        <id>https://gigazine.net/news/20210708-coronagame/</id>
-        <link href="https://gigazine.net/news/20210708-coronagame/"/>
-        <updated>2021-07-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LAN内PCのIPアドレス探索ツール「rclshark」について]]></title>
         <id>https://zenn.dev/array/articles/9fd8cb5941bb94</id>
         <link href="https://zenn.dev/array/articles/9fd8cb5941bb94"/>
@@ -670,16 +689,6 @@ https://github.com/Ar-Ray-code/rclshark/releases/tag/v1.0.0
 ディスプレイに接続されていないP...]]></summary>
         <author>
             <name>えいあーるれい</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年7月8日のヘッドラインニュース]]></title>
-        <id>https://gigazine.net/news/20210708-headline/</id>
-        <link href="https://gigazine.net/news/20210708-headline/"/>
-        <updated>2021-07-08T09:29:00.000Z</updated>
-        <summary type="html"><![CDATA[続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
     <entry>
@@ -711,7 +720,7 @@ https://github.com/Ar-Ray-code/rclshark/releases/tag/v1.0.0
         
         ret...]]></summary>
         <author>
-            <name>HKPudding</name>
+            <name>プリン</name>
         </author>
     </entry>
     <entry>
@@ -722,22 +731,6 @@ https://github.com/Ar-Ray-code/rclshark/releases/tag/v1.0.0
         <summary type="html"><![CDATA[はじめに
 
 ESP32をArduinoIDEで開発していると妙にコンパイルが遅い気がします。AVRに比べれば機能が多いのでコンパイルに時間がかかるのはわかるのですが、１度ビルドし直すだけでも長いプロ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テキストから画像を生成する：Zero-Shot Text-to-Image Generation [Ramesh+, 2021]]]></title>
-        <id>https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-08T09:02:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-2021年にOpenAIによって公開された、テキストを画像に変換する「DALL-E」についてまとめました。
-
-生成した画像
-
-「バレリーナの衣装を着て、犬の散歩をする赤ちゃん大根」の画像です…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -796,10 +789,10 @@ webpackの設定ファイルであるwebpack.config.jsは、TypeScriptで書い�
 https://webpack.js.org/configuration/configuration-languages/
 
  記事の概要
-概要のみ知りたい人に向けて、以下にこの記事で解説する内容のまとめを書いておきます👇
+概要のみ知りたい人に向けて、以下にこの記事で解説する内容をまとめておきます👇
 
 
-...]]></summary>
+web...]]></summary>
         <author>
             <name>uttk</name>
         </author>
@@ -1076,6 +1069,16 @@ type Query {
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ポ〇モン的対戦RPGゲームの作り方-2.外部データのインポートとEditor拡張]]></title>
+        <id>https://qiita.com/evebursterrorR/items/86315925a85d48fe6adc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/evebursterrorR/items/86315925a85d48fe6adc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-07T07:51:12.000Z</updated>
+        <summary type="html"><![CDATA[暇つぶしがてらポ〇モン的対戦RPGゲームを開発したので、その中身の作り方の概要を記事にしたいと思います。Qiitaに投稿するの初めてで書くの慣れてないので読みにくかったらすいません。また、Unity…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AWS, Azure, GCP ３大クラウドサービスを比較しました!]]></title>
         <id>https://qiita.com/dtakkiy/items/3592d4e94b3610ebc54a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/dtakkiy/items/3592d4e94b3610ebc54a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1132,6 +1135,16 @@ ht…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2021年7月静岡県熱海市の土石流災害に関する空間データの可視化と共有]]></title>
+        <id>https://qiita.com/tosseto/items/3f88e64be9f6f8e11d4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/tosseto/items/3f88e64be9f6f8e11d4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-07-07T02:17:30.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月3日に静岡県熱海市伊豆山地区で発生した土石流災害に関連して、静岡県では兼ねてから災害に備えて3次元点群データの蓄積・オープンデータ化が進められていたほか、災害発生直後より比較的短期間…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「いつまでにならできますか？」に対抗する、少しでも自信を持って見積もるための知恵]]></title>
         <id>https://qiita.com/e99h2121/items/43873ffd84b102d95929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/e99h2121/items/43873ffd84b102d95929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1169,19 +1182,6 @@ Rustではllvm-sysというC APIのバインディングが既にあるので、
 ...]]></summary>
         <author>
             <name>yubrot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「PyWebIO」があればPython 100%でWebアプリ作れるってマジ！？]]></title>
-        <id>https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-07-06T11:37:37.000Z</updated>
-        <summary type="html"><![CDATA[TL; NR
-
-PyWebIOっていう、Pythonユーザ向けでけっこうイケてる(死語)Webアプリケーションフレームワークを発見した。(正確にはスタックオーバーフローのコメントで知った)
-なのに日…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -1223,17 +1223,6 @@ https://ai-inter1.com/python-module_package_library/
 初心者の方（何を隠そう私も初心者です）だとpip...]]></summary>
         <author>
             <name>karaage0703</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独習入門 ～基礎編～]]></title>
-        <id>https://zenn.dev/mossan_hoshi/books/209e11ee43e2bb</id>
-        <link href="https://zenn.dev/mossan_hoshi/books/209e11ee43e2bb"/>
-        <updated>2021-07-04T13:25:54.000Z</updated>
-        <summary type="html"><![CDATA[プライベートの時間における一人での勉強方法についてまとめます。
-内容は「基礎編」「読書編」「プログラミング編」の3つに分かれており、本書では「基礎編」を取り扱います]]></summary>
-        <author>
-            <name>mossan_hoshi</name>
         </author>
     </entry>
     <entry>

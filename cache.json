@@ -125,7 +125,7 @@
           "description": "一言で言うと\ngithub actionsで使用するactions/checkout@v2は.git/configを書き換えるので、actions/checkout@v2を使用した後にgitコマンドを使うと思わぬ動きをすることがあるから気をつけてほしい。\nあと、.dockerignoreに.gitを忘れないように。\n\n 何が起きたか\ngithubのプライベートリポジトリを依存に含んでいたため、トークンを使って依存解決していた。\n以下のようなワークフローを書いていた。\n\n      \n        \n        # at github.com/Urotea/sample-priv...",
           "link": "https://zenn.dev/urotea/articles/0ed9b326d0ec8f",
           "publishedOn": "2021-07-08T10:34:47.000Z",
-          "wordCount": 201,
+          "wordCount": 202,
           "title": "actions/checkout@v2はgitconfigを書き換える副作用がある",
           "enclosure": {
             "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--s-isblnf--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:urotea%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:actions%252Fcheckout%2540v2%25E3%2581%25AFgitconfig%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258D%25E6%258F%259B%25E3%2581%2588%25E3%2582%258B%25E5%2589%25AF%25E4%25BD%259C%25E7%2594%25A8%25E3%2581%258C%25E3%2581%2582%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvdS5zdmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
@@ -149,14 +149,14 @@
         },
         {
           "id": "https://zenn.dev/service_503/articles/b7668a820b5856",
-          "author": "HKPudding",
+          "author": "プリン",
           "description": "よくこんなコード書いてないですか\n\n      \n        \n          const ref = useRef(null);\n  \n  useEffect(() => {\n    if(ref.current) {\n      ...\n    }\n  }, [ref.current]);\n  \n  return (\n    <div ref={ref} .../>\n  );\n\n\n      \n      これだとマウント時にはレンダリングされない要素に ref を渡した場合に動かなかったりします\n\n      \n        \n        ret...",
           "link": "https://zenn.dev/service_503/articles/b7668a820b5856",
           "publishedOn": "2021-07-08T09:26:41.000Z",
           "wordCount": 155,
           "title": "[React] ref.current を useEffect の第二引数のリストに書かない",
           "enclosure": {
-            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--FXzvcNUw--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:HKPudding%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:%255BReact%255D%2520ref.current%2520%25E3%2582%2592%2520useEffect%2520%25E3%2581%25AE%25E7%25AC%25AC%25E4%25BA%258C%25E5%25BC%2595%25E6%2595%25B0%25E3%2581%25AE%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZTI4YzU1N2IyNy5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--QpAT1z7A--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25B3%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:%255BReact%255D%2520ref.current%2520%25E3%2582%2592%2520useEffect%2520%25E3%2581%25AE%25E7%25AC%25AC%25E4%25BA%258C%25E5%25BC%2595%25E6%2595%25B0%25E3%2581%25AE%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZTI4YzU1N2IyNy5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
             "length": "0",
             "type": "image/png"
           }
@@ -192,7 +192,7 @@
         {
           "id": "https://zenn.dev/uttk/articles/ab7afa61eb481f",
           "author": "uttk",
-          "description": "この記事について\nwebpackの設定ファイルであるwebpack.config.jsは、TypeScriptで書いてNode.js上で実行できます。しかし、本来であればTypeScriptのソースコードはNode.jsでは実行できないはずです。 この事が気になった私は、今回その仕組みを調べてみたので、この場を借りてその調査結果を共有したいと思います💪\n参照\nhttps://webpack.js.org/configuration/configuration-languages/\n\n 記事の概要\n概要のみ知りたい人に向けて、以下にこの記事で解説する内容のまとめを書いておきます👇\n\n\n...",
+          "description": "この記事について\nwebpackの設定ファイルであるwebpack.config.jsは、TypeScriptで書いてNode.js上で実行できます。しかし、本来であればTypeScriptのソースコードはNode.jsでは実行できないはずです。 この事が気になった私は、今回その仕組みを調べてみたので、この場を借りてその調査結果を共有したいと思います💪\n参照\nhttps://webpack.js.org/configuration/configuration-languages/\n\n 記事の概要\n概要のみ知りたい人に向けて、以下にこの記事で解説する内容をまとめておきます👇\n\n\nweb...",
           "link": "https://zenn.dev/uttk/articles/ab7afa61eb481f",
           "publishedOn": "2021-07-08T04:36:31.000Z",
           "wordCount": 531,
@@ -342,20 +342,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://zenn.dev/mossan_hoshi/books/209e11ee43e2bb",
-          "author": "mossan_hoshi",
-          "description": "プライベートの時間における一人での勉強方法についてまとめます。\n内容は「基礎編」「読書編」「プログラミング編」の3つに分かれており、本書では「基礎編」を取り扱います",
-          "link": "https://zenn.dev/mossan_hoshi/books/209e11ee43e2bb",
-          "publishedOn": "2021-07-04T13:25:54.000Z",
-          "wordCount": 34,
-          "title": "独習入門 ～基礎編～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--Osqit20G--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci80YzI2NDE4MTA2LmpwZw==%2Cw_200/v1604564438/og_book_base_ndpqis.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          }
         }
       ]
     },
@@ -372,6 +358,15 @@
           "publishedOn": "2021-07-09T02:34:58.000Z",
           "wordCount": 616,
           "title": "GAS＆Backlog APIで必要情報のみを取得して見やすく一覧化する話"
+        },
+        {
+          "id": "https://qiita.com/kurimoto2011/items/9fd78b99c156af7085c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ほぼタイトルで完結していますが、一応どこでoverflow:auto;を探せばよいかほんの少しだけ書きます。\n\nbody{\n     overflow:auto;\n}\n/* もしくは */\nhtml{\n     over…",
+          "link": "https://qiita.com/kurimoto2011/items/9fd78b99c156af7085c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-09T00:35:38.000Z",
+          "wordCount": 284,
+          "title": "window.onloadが効かない。そんな時はoverflow:auto;を探そう"
         },
         {
           "id": "https://qiita.com/hikaru_motomiya/items/554ccb3671f7e9cf0aef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -397,7 +392,7 @@
           "description": "概要\n\nこれはもともとあったMVVMなWPFアプリに自動テストとDependency-Injection(DI)を実装してみた記録です。変更点はWPFとはあまり関係ないので、C#であれば他のフレーム…",
           "link": "https://qiita.com/soi/items/273e60b2a48d57ae762f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-08T22:17:20.000Z",
-          "wordCount": 700,
+          "wordCount": 702,
           "title": "自作のWPFアプリを後から自動テスト・DI対応にしてみる。その1"
         },
         {
@@ -406,8 +401,17 @@
           "description": "役立つYouTubeのチャンネルまとめ\n\n物理数学、アルゴリズム、プログラミング、などなど自分が使う技術に役立ちそうだな、困ったときによく見たなと思うチャンネルを紹介する\n取っ掛かり、ハマりがち、コ…",
           "link": "https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-08T17:54:28.000Z",
-          "wordCount": 381,
+          "wordCount": 388,
           "title": "技術ようつべチャンネル集"
+        },
+        {
+          "id": "https://qiita.com/nemutas/items/555c75f4473f605123fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n\n\nNext.jsの勉強を始め、公式のチュートリアルでブログサイトを作成しました。\nその過程で、JAMstackとういうアーキテクチャを知り、最近勉強していたFirebaseと組み合わせると自分…",
+          "link": "https://qiita.com/nemutas/items/555c75f4473f605123fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T17:46:06.000Z",
+          "wordCount": 350,
+          "title": "【JAMstack】Next.js × Firebase で JAMstack なブログサイトを作る①［概要］"
         },
         {
           "id": "https://qiita.com/YutoTada/items/b58f0f0547d15457f6d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -415,7 +419,7 @@
           "description": "目次\n\n1.概要\n2.はじめに\n3.ウォーターフォール開発とアジャイル開発\n4.スクラムとは\n5.まとめ\n\n1-概要\n\n現在弊社で参加しているAWS主催の内製化支援に向けたトレーニング「ANGEL Do…",
           "link": "https://qiita.com/YutoTada/items/b58f0f0547d15457f6d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-08T16:18:42.000Z",
-          "wordCount": 438,
+          "wordCount": 442,
           "title": "アジャイル開発、スクラムの基本を説明します@ANGEL Dojo"
         },
         {
@@ -437,24 +441,6 @@
           "title": "Slackにバイク川崎バイクを導入する【Python/Slackbot/Mecab】"
         },
         {
-          "id": "https://qiita.com/keitaUenishi/items/b09a34bcbf02ffff8e67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n2021年の５月から、大阪のとあるベンチャー企業でエンジニアとして働かせていただいています。\nいっときほどの勢いはなくなった印象ですが、いまもエンジニアへの転職を希望されている方は一定数…",
-          "link": "https://qiita.com/keitaUenishi/items/b09a34bcbf02ffff8e67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T11:48:14.000Z",
-          "wordCount": 362,
-          "title": "完全未経験からエンジニアとしてITベンチャーに就職して２ヶ月の気づき"
-        },
-        {
-          "id": "https://qiita.com/DoggyID/items/ef4dc9a6eb3847f09456?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nMathworks社が運営し，様々な場面で使用される便利なソフト「MATLAB」．\nドローン制御の大会に向けて基本操作を学んでいる最中に，ふと関数を使って遊びたいと思ったので実用的な関数…",
-          "link": "https://qiita.com/DoggyID/items/ef4dc9a6eb3847f09456?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T11:21:40.000Z",
-          "wordCount": 394,
-          "title": "MATLABで遊ぶ"
-        },
-        {
           "id": "https://qiita.com/miya_gis/items/5cf30bc857d12c23de75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nこの投稿は、RPAツール「UiPath」の 製品歴史を振り返ってみる 記事です。\n\nRPAツールUiPathのコミュニティ「UiPath Friends」が企画する「UiPathブログ発信…",
@@ -469,7 +455,7 @@
           "description": "サブ業務チームのスクラムマスターのススメでデイリーレトロスペクティブはじめました。\n同期的に集まらずMiroのボードに各自Keep&Problemを書き出すようにしているんですが、\n忘れそうな自分と…",
           "link": "https://qiita.com/TakahiRoyte/items/a7c458dc18cd0dcc80c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-08T10:20:05.000Z",
-          "wordCount": 328,
+          "wordCount": 332,
           "title": "Power AutomateでTeamsの特定のスレッドに定期リマインダーを送る"
         },
         {
@@ -480,15 +466,6 @@
           "publishedOn": "2021-07-08T09:13:27.000Z",
           "wordCount": 357,
           "title": "Arduino IDE でESP32のコンパイル時間を短縮する方法"
-        },
-        {
-          "id": "https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n2021年にOpenAIによって公開された、テキストを画像に変換する「DALL-E」についてまとめました。\n\n生成した画像\n\n「バレリーナの衣装を着て、犬の散歩をする赤ちゃん大根」の画像です…",
-          "link": "https://qiita.com/thmd9726/items/6be690feb7161a2ef0db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-08T09:02:05.000Z",
-          "wordCount": 317,
-          "title": "テキストから画像を生成する：Zero-Shot Text-to-Image Generation [Ramesh+, 2021]"
         },
         {
           "id": "https://qiita.com/ybsh2891/items/afd741153593d2d9e021?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -505,7 +482,7 @@
           "description": "以下の記事を読みました。\n\nCookieのPath属性は本当に安全性に寄与しないのか\n\n結論として以下となっています。\n\n\n結論。Path属性は特殊な状況下ではある程度安全性に寄与する\nPath属性は、これ…",
           "link": "https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-08T03:45:40.000Z",
-          "wordCount": 363,
+          "wordCount": 358,
           "title": "Re: CookieのPath属性は本当に安全性に寄与しないのか"
         },
         {
@@ -550,7 +527,7 @@
           "description": "概要\n\nUnityはマルチプラットフォーム対応のゲームエンジンなのでiOSやAndroid以外にWindows向けのバイナリを生成することも出来ます。\n\nなので「ちょっとしたゲームが出来たから配布して…",
           "link": "https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-07T16:00:31.000Z",
-          "wordCount": 342,
+          "wordCount": 340,
           "title": "ZipでUnityのexeファイルを配るの止めたい。InnoSetupを使おう"
         },
         {
@@ -581,6 +558,15 @@
           "title": "文系エンジニア未経験がアプリケーションを作れるようになるまで"
         },
         {
+          "id": "https://qiita.com/evebursterrorR/items/86315925a85d48fe6adc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "暇つぶしがてらポ〇モン的対戦RPGゲームを開発したので、その中身の作り方の概要を記事にしたいと思います。Qiitaに投稿するの初めてで書くの慣れてないので読みにくかったらすいません。また、Unity…",
+          "link": "https://qiita.com/evebursterrorR/items/86315925a85d48fe6adc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T07:51:12.000Z",
+          "wordCount": 1107,
+          "title": "ポ〇モン的対戦RPGゲームの作り方-2.外部データのインポートとEditor拡張"
+        },
+        {
           "id": "https://qiita.com/dtakkiy/items/3592d4e94b3610ebc54a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "３大クラウドサービスを比較しました。\n(2021/07/07更新)\n\n⭐ 概要\n\n\n\n⭐ サービス\n\n\n\n⭐ 価格\n\n仮想マシンの１台あたりの価格比較。\n\n\n\n⭐ Googleトレンド\n\n集計期間: 2011/06/08…",
@@ -595,7 +581,7 @@
           "description": "はじめに\n\nパフォーマンスが事業に影響を与えるという話はよく聞くが、実際にどんな事例があるのだろうかと思ったので調べてみました。\n他にも多く事例があると思うので、他にもあったらコメントいただけると嬉…",
           "link": "https://qiita.com/ohakutsu/items/0c108469b95be1df6064?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "publishedOn": "2021-07-07T05:38:15.000Z",
-          "wordCount": 332,
+          "wordCount": 336,
           "title": "Webサイトのパフォーマンス改善がもたらした事例をまとめてみた"
         },
         {
@@ -608,6 +594,15 @@
           "title": "pythonを使ってリアクティブなWebアプリを作りたい【開発編】"
         },
         {
+          "id": "https://qiita.com/tosseto/items/3f88e64be9f6f8e11d4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021年7月3日に静岡県熱海市伊豆山地区で発生した土石流災害に関連して、静岡県では兼ねてから災害に備えて3次元点群データの蓄積・オープンデータ化が進められていたほか、災害発生直後より比較的短期間…",
+          "link": "https://qiita.com/tosseto/items/3f88e64be9f6f8e11d4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T02:17:30.000Z",
+          "wordCount": 407,
+          "title": "2021年7月静岡県熱海市の土石流災害に関する空間データの可視化と共有"
+        },
+        {
           "id": "https://qiita.com/e99h2121/items/43873ffd84b102d95929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "https://qiita.com/e99h2121/items/bb9e22af744dec95caa0\n\nの続編のようなポエム。\n\n「できるかできないかわからない状態」の物事に対して「いつまでになら…",
@@ -615,15 +610,6 @@
           "publishedOn": "2021-07-06T21:21:46.000Z",
           "wordCount": 323,
           "title": "「いつまでにならできますか？」に対抗する、少しでも自信を持って見積もるための知恵"
-        },
-        {
-          "id": "https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "TL; NR\n\nPyWebIOっていう、Pythonユーザ向けでけっこうイケてる(死語)Webアプリケーションフレームワークを発見した。(正確にはスタックオーバーフローのコメントで知った)\nなのに日…",
-          "link": "https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-07-06T11:37:37.000Z",
-          "wordCount": 538,
-          "title": "「PyWebIO」があればPython 100%でWebアプリ作れるってマジ！？"
         },
         {
           "id": "https://qiita.com/Kohei_2424/items/e500477cc5f7307b08ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -642,12 +628,39 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20210710-jewish-non-kosher-fish/",
+          "author": null,
+          "description": "ユダヤ教の食物に関する戒律は「カシュルート」と呼ばれ、非常に厳しいことで知られています。そんなユダヤ教の戒律では、「ヒレやウロコがない魚を食べてはいけない」と定められていますが、古代のユダヤ教徒はウロコがない魚もよく食べていたことが判明しました。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210710-jewish-non-kosher-fish/",
+          "publishedOn": "2021-07-10T00:00:00.000Z",
+          "wordCount": 198,
+          "title": "古代ユダヤ人は戒律で禁じられた食べ物を普通に食べていたことが判明"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-rog-strix-go-bt/",
+          "author": null,
+          "description": "ROG Phone 5シリーズ」と同時に登場した「ROG Strix Go BT」は、Qualcomm aptX Adaptive audio technologyによる低遅延＆高品質＆シームレスなサウンドを実現し、さらにアクティブノイズキャンセリング技術により周囲の音を遮断してゲームに集中できる環境を生み出してくれるとのことなので、実際に使ってみました。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-rog-strix-go-bt/",
+          "publishedOn": "2021-07-09T14:00:00.000Z",
+          "wordCount": 281,
+          "title": "ASUSのゲーミングヘッドセット「ROG STRIX GO BT」レビュー、ゲーミングを超える音質と使いやすさ＆フル充電で最大45時間使用可能"
+        },
+        {
+          "id": "https://gigazine.net/news/20210709-burgerking-Jalapeno-hot-sauce/",
+          "author": null,
+          "description": "ハラペーニョを使った緑色の「ヤラピノホットソース」をたっぷり挟んだ「ヤラピノホットソースワッパー」「チキン・ヤラピノバーガー」「ヤラピノ＆チーズ ホットドッグ」の3品が2021年7月9日からバーガーキングに登場しています。「ヤラピノホットソース」はハラペーニョをベースにキレのいい辛さに仕上げたソースとのことで、実際に3品とも食べてソースの味や肉との相性を確かめてみました。      \n続きを読む...",
+          "link": "https://gigazine.net/news/20210709-burgerking-Jalapeno-hot-sauce/",
+          "publishedOn": "2021-07-09T13:00:00.000Z",
+          "wordCount": 200,
+          "title": "肉の味を引き立てるピリ辛ハラペーニョソースがたっぷり入った「ヤラピノホットソースワッパー」などバーガーキングの新作3品を食べてみた"
+        },
+        {
           "id": "https://gigazine.net/news/20210709-anom-phone-arcaneos-fbi-backdoor/",
           "author": null,
           "description": "続きを読む...",
           "link": "https://gigazine.net/news/20210709-anom-phone-arcaneos-fbi-backdoor/",
           "publishedOn": "2021-07-09T12:00:00.000Z",
-          "wordCount": 178,
+          "wordCount": 182,
           "title": "800人の犯罪者を逮捕したFBIおとり捜査用の暗号化通信アプリ「Anom」の実物はどんなものなのか？"
         },
         {
@@ -656,7 +669,7 @@
           "description": "有効化している、Domain Name System(DNS)との通信を暗号化するプロトコル「DNS over HTTPS(DoH)」を、カナダのユーザーに対しても有効化することを発表しました。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-firefox-dns-over-https-canada/",
           "publishedOn": "2021-07-09T11:00:00.000Z",
-          "wordCount": 201,
+          "wordCount": 204,
           "title": "Firefoxが通信暗号化システム「DNS over HTTPS」の対象地域拡大を発表、一体何が変わるのか？"
         },
         {
@@ -665,7 +678,7 @@
           "description": "Square」のハードウェア担当責任者を務めるジェシー・ドロガスカー氏が、「ビットコインのハードウェアウォレット」を作る計画をTwitterで明らかにしました。SquareはTwitterのCEOであるジャック・ドーシー氏が設立した企業であり、ドーシー氏もドロガスカー氏の発言を確認しています。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-square-building-bitcoin-hard-wallet/",
           "publishedOn": "2021-07-09T10:00:00.000Z",
-          "wordCount": 201,
+          "wordCount": 204,
           "title": "Twitter創業者のモバイル決済企業・Squareが「ビットコインのハードウェアウォレット」を開発すると発表"
         },
         {
@@ -674,7 +687,7 @@
           "description": "続きを読む...",
           "link": "https://gigazine.net/news/20210709-headline/",
           "publishedOn": "2021-07-09T09:10:00.000Z",
-          "wordCount": 562,
+          "wordCount": 565,
           "title": "2021年7月9日のヘッドラインニュース"
         },
         {
@@ -683,7 +696,7 @@
           "description": "続きを読む...",
           "link": "https://gigazine.net/news/20210709-rare-gene-variants-protect-obesity/",
           "publishedOn": "2021-07-09T08:00:00.000Z",
-          "wordCount": 184,
+          "wordCount": 187,
           "title": "3000人に1人は「太りにくい遺伝子」を持っている可能性があると判明"
         },
         {
@@ -692,7 +705,7 @@
           "description": "PlayStation 5(PS5)」は、ソニー公式から「供給不足は2022年になっても続く可能性がある」という声明があったように、かつてないほど入手が困難になっています。入手が困難なのはPS5やXbox Series Xといった次世代ゲーム機だけではなく、PlayStation 4(PS4)やXbox Oneといった前世代のゲーム機も同様であると、ゲームメディアのKotakuが報じました。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-ps4-hard-to-buy-as-ps5/",
           "publishedOn": "2021-07-09T07:02:00.000Z",
-          "wordCount": 226,
+          "wordCount": 229,
           "title": "PS5やXbox Series XだけでなくPS4＆Xbox Oneも品薄状態に"
         },
         {
@@ -701,7 +714,7 @@
           "description": "ゴッド・オブ・ウォーをプレイして1日を終える父親」というムービー広告をTwitterにアップしましたが、すぐに投稿が削除されました。この理由は「PS5を上下逆に設置していたこと」だとゲーム系ニュースメディアのKotakuが報じています。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-sony-upside-down-ps5/",
           "publishedOn": "2021-07-09T06:00:00.000Z",
-          "wordCount": 177,
+          "wordCount": 180,
           "title": "ソニーがうっかりPS5を上下逆に設置したCMを公開してしまう"
         },
         {
@@ -710,7 +723,7 @@
           "description": "GitHub Copilot」をリリースしました。Microsoft傘下のGitHubが、ライセンスを問わずGitHub上のあらゆるソースコードを学習して作られたCopilotを商業利用することについて、「著作権的に問題があるのではないか？」との議論が巻き起こっています。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-github-copilot-copyright/",
           "publishedOn": "2021-07-09T05:06:00.000Z",
-          "wordCount": 178,
+          "wordCount": 182,
           "title": "GitHubのソースコードで学習したプログラミングAI「Copilot」は著作権侵害なのか？"
         },
         {
@@ -719,7 +732,7 @@
           "description": "続きを読む...",
           "link": "https://gigazine.net/news/20210709-marvel-what-if-trailer/",
           "publishedOn": "2021-07-09T04:25:00.000Z",
-          "wordCount": 177,
+          "wordCount": 180,
           "title": "「もしヒーローたちに別の運命が待っていたら」を描くマーベル初のオリジナルアニメシリーズ「ホワット・イフ…？」最新予告編公開"
         },
         {
@@ -728,7 +741,7 @@
           "description": "NFCでGoogle Payの残高を支払える仮想カード「Google Pay balance」の展開がアメリカでスタートしました。報道によると、Googleは「まもなく『全ての』Androidユーザーで利用できるようになる予定です」と回答したとのことです。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-google-pay-balance-card-nfc-android/",
           "publishedOn": "2021-07-09T04:00:00.000Z",
-          "wordCount": 215,
+          "wordCount": 218,
           "title": "Google Payの残高を現実でも使えるようにする仮想カード「Google Pay balance」が登場"
         },
         {
@@ -737,7 +750,7 @@
           "description": "続きを読む...",
           "link": "https://gigazine.net/news/20210709-microsoft-giving-employees-pandemic-bonus/",
           "publishedOn": "2021-07-09T03:30:00.000Z",
-          "wordCount": 185,
+          "wordCount": 188,
           "title": "16万円の新型コロナパンデミックボーナスをMicrosoftが従業員に支給"
         },
         {
@@ -746,7 +759,7 @@
           "description": "続きを読む...",
           "link": "https://gigazine.net/news/20210709-hong-kong-seizes-electronic-goods/",
           "publishedOn": "2021-07-09T03:15:00.000Z",
-          "wordCount": 205,
+          "wordCount": 208,
           "title": "2500個以上のCPUの密輸を税関が阻止、体に巻き付けて密輸を試みた例も"
         },
         {
@@ -755,7 +768,7 @@
           "description": "開発したモデルナが、季節性インフルエンザに対する予防効果があるとされるmRNAワクチン「mRNA-1010」の第1／2相の臨床試験を開始したことを発表しました。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-moderna-mrna-vaccine-flu/",
           "publishedOn": "2021-07-09T03:05:00.000Z",
-          "wordCount": 202,
+          "wordCount": 205,
           "title": "モデルナがmRNAを用いたインフルエンザワクチンの臨床試験を開始"
         },
         {
@@ -764,7 +777,7 @@
           "description": "GIGAZINEシークレットクラブの有料メンバー限定ですが、2021年8月31日までは誰でも閲覧可能です。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-access/",
           "publishedOn": "2021-07-09T03:00:00.000Z",
-          "wordCount": 405,
+          "wordCount": 408,
           "title": "2021年度6月分のGIGAZINEのアクセス解析結果"
         },
         {
@@ -773,7 +786,7 @@
           "description": "SoCのSnapdragonシリーズを開発しているアメリカの半導体製造大手・Qualcommが、Snapdragonファンのコミュニティ「Snapdragon Insiders」のユーザー向けに、初となるオリジナルスマートフォンを発売することを現地時間の2021年7月8日に発表しました。「Smartphone for Snapdragon Insiders」と呼ばれる新たなスマートフォンはASUSによって設計され、5Gモデム内蔵のSoC「Snapdragon 888」を搭載しているほか、さまざまなQualcommのテクノロジーを体験できる機種になっているとのことです。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-qualcomm-smartphone-for-snapdragon-insiders/",
           "publishedOn": "2021-07-09T02:55:00.000Z",
-          "wordCount": 347,
+          "wordCount": 350,
           "title": "Qualcommが初のオリジナルスマートフォンを日本でも発売へ、Snapdragon 888や最新テクノロジー搭載で価格は税込16万4880円"
         },
         {
@@ -782,7 +795,7 @@
           "description": "続きを読む...",
           "link": "https://gigazine.net/news/20210709-black-thunder-sugar-off/",
           "publishedOn": "2021-07-09T02:45:00.000Z",
-          "wordCount": 178,
+          "wordCount": 181,
           "title": "「ブラックサンダーひとくちサイズ糖質50%OFF」はいつものブラックサンダーとどう違うのか食べて確かめてみた"
         },
         {
@@ -791,7 +804,7 @@
           "description": "続きを読む...",
           "link": "https://gigazine.net/news/20210709-uk-animal-welfare-bill-ban-boiling-lobsters/",
           "publishedOn": "2021-07-09T02:30:00.000Z",
-          "wordCount": 236,
+          "wordCount": 239,
           "title": "イギリスがロブスターやタコをそのまま茹でる行為を禁止する可能性、「甲殻類や軟体動物も動物愛護の対象とすべき」という新法により"
         },
         {
@@ -800,7 +813,7 @@
           "description": "続きを読む...",
           "link": "https://gigazine.net/news/20210709-google-play-lawsuit-ignores/",
           "publishedOn": "2021-07-09T02:17:00.000Z",
-          "wordCount": 215,
+          "wordCount": 218,
           "title": "Googleが独占禁止法違反の訴訟に「無益」と真っ向反論"
         },
         {
@@ -809,7 +822,7 @@
           "description": "pring(プリン)」を買収することを日本経済新聞が報じました。「pring」の親会社の1つであるメタップスから、自社が発表したものではないとのリリースが出たものの、話題は波紋を広げています。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-google-fintech/",
           "publishedOn": "2021-07-09T02:12:00.000Z",
-          "wordCount": 207,
+          "wordCount": 210,
           "title": "Googleがスマホ決済の「pring」を買収するとの報道が話題に"
         },
         {
@@ -818,7 +831,7 @@
           "description": "Nintendo Switch(有機ELモデル)」が発表されました。突然の発表であったため多くのゲーマーの注目を集めることとなった新モデルですが、新モデルと同じくらいSNS上で話題になったのが、公式ムービーで登場した「廊下でひとりゲームする男性」です。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-nintendo-switch-oled-hallway-guy/",
           "publishedOn": "2021-07-09T01:01:00.000Z",
-          "wordCount": 210,
+          "wordCount": 213,
           "title": "「Nintendo Switch(有機ELモデル)」の発表ムービーで登場した「廊下でひとりゲームする男性」にインターネットユーザーから総ツッコミ"
         },
         {
@@ -827,7 +840,7 @@
           "description": "糞便移植(FMT)」が効果的である可能性が指摘されており、臨床試験も予定されています。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-covid-19-fecal-microbiota-transplant/",
           "publishedOn": "2021-07-09T00:00:00.000Z",
-          "wordCount": 213,
+          "wordCount": 216,
           "title": "「他人の糞便」を腸内に移植すると新型コロナの回復が早まる可能性、すでに臨床試験もスタート"
         },
         {
@@ -836,7 +849,7 @@
           "description": "神経細胞(ニューロン)が活動電位に達する「発火」を脳活動の尺度として扱ってきました。ところが、アメリカの研究チームが発表した新たな論文では、ニューロンが発火する頻度だけでなく、「発火するタイミング」が脳において重要な役割を果たしている可能性が示唆されています。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-human-brains-temporal-activity-pattern/",
           "publishedOn": "2021-07-08T23:00:00.000Z",
-          "wordCount": 187,
+          "wordCount": 190,
           "title": "人間の学習にはニューロンが発火するタイミングと脳波の「ズレ」が関係しているかもしれない"
         },
         {
@@ -845,7 +858,7 @@
           "description": "続きを読む...",
           "link": "https://gigazine.net/news/20210709-ai-weapons-war/",
           "publishedOn": "2021-07-08T22:00:00.000Z",
-          "wordCount": 183,
+          "wordCount": 186,
           "title": "AI兵器や自律型ドローンが戦場にもたらす危機とは？"
         },
         {
@@ -854,7 +867,7 @@
           "description": "リスクベース認証(RIBA)と呼びます。Appleは新たなプライバシー保護機能として「プライベートリレー」を発表していますが、プライベートリレーはユーザーのIPアドレスを暗号化するものであるため、IPアドレスを利用するRIBAを無力化させるのではないかとデジタルアイデンティティの専門家であるフロリアン・フォースター氏が指摘しています。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210709-apple-private-relay-riba/",
           "publishedOn": "2021-07-08T21:00:00.000Z",
-          "wordCount": 188,
+          "wordCount": 192,
           "title": "Appleの新プライバシー保護機能「プライベートリレー」はリスクベース認証を無力化させる"
         },
         {
@@ -863,7 +876,7 @@
           "description": "ROG Phone 5 Ultimate」は、ゲーミングスマートフォン「ROG Phone」の最新＆最上位モデルでゲーミングに特化した機体です。そんなROG Phone 5 Ultimateのゲームを、専用コントローラー「ROG Kunai 3 Gamepad」を使って触ってみました。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210708-rog-phone-5-ultimate-kunai-3-gamepad/",
           "publishedOn": "2021-07-08T14:00:00.000Z",
-          "wordCount": 329,
+          "wordCount": 331,
           "title": "ASUSのゲーミングスマホ最上位モデル「ROG Phone 5 Ultimate」ゲーム機能レビュー＆専用外付けコントローラー「ROG Kunai 3 Gamepad」を使ってみた"
         },
         {
@@ -872,7 +885,7 @@
           "description": "すだちおろしうどん」に、しらすをのせた「釜あげしらすのすだちおろしうどん」が2021年7月8日(木)から登場しています。瀬戸内産の釜あげしらすに、酸味が爽やかなすだちを合わせた一品は、大根おろしの辛みも相まってさっぱりした後味に仕上がっているとのことなので、実際になか卯で買って食べてみました。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210708-nakau-sudachi-oroshi-udon-shirasu/",
           "publishedOn": "2021-07-08T13:00:00.000Z",
-          "wordCount": 179,
+          "wordCount": 182,
           "title": "すだち＆大根おろしのさっぱり感でしらすのうまみが引き立つ「釜あげしらすのすだちおろしうどん」をなか卯で食べてみた"
         },
         {
@@ -881,35 +894,8 @@
           "description": "予測しました。需要がひっ迫する半導体の製造に対する取り組みについて、海外紙のワシントン・ポストが紹介しています。      \n続きを読む...",
           "link": "https://gigazine.net/news/20210708-produce-computer-chip-fab/",
           "publishedOn": "2021-07-08T12:00:00.000Z",
-          "wordCount": 170,
+          "wordCount": 173,
           "title": "急増する半導体需要に対し製造工場はどのように対応しているのか？"
-        },
-        {
-          "id": "https://gigazine.net/news/20210708-iceland-experiment-shorter-working/",
-          "author": null,
-          "description": "続きを読む...",
-          "link": "https://gigazine.net/news/20210708-iceland-experiment-shorter-working/",
-          "publishedOn": "2021-07-08T11:00:00.000Z",
-          "wordCount": 185,
-          "title": "労働時間を週35時間に減らす実験を約7年続けたアイスランドが得た結論は？"
-        },
-        {
-          "id": "https://gigazine.net/news/20210708-coronagame/",
-          "author": null,
-          "description": "続きを読む...",
-          "link": "https://gigazine.net/news/20210708-coronagame/",
-          "publishedOn": "2021-07-08T10:00:00.000Z",
-          "wordCount": 198,
-          "title": "新型コロナへの対応により感染拡大がどのように変化するのかをシミュレーションできるゲーム「CoronaGame」"
-        },
-        {
-          "id": "https://gigazine.net/news/20210708-headline/",
-          "author": null,
-          "description": "続きを読む...",
-          "link": "https://gigazine.net/news/20210708-headline/",
-          "publishedOn": "2021-07-08T09:29:00.000Z",
-          "wordCount": 434,
-          "title": "2021年7月8日のヘッドラインニュース"
         }
       ]
     }
