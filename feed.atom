@@ -1,10 +1,558 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-26T00:52:34.632Z</id>
+    <id>urn:2021-08-27T00:58:46.148Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-26T00:52:34.632Z</updated>
+    <updated>2021-08-27T00:58:46.148Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[App Storeでは未成年でもアダルトコンテンツにアクセスし放題、Appleは子どもを保護する約束を放棄しているという指摘]]></title>
+        <id>https://gigazine.net/news/20210827-apple-app-store-children-risk/</id>
+        <link href="https://gigazine.net/news/20210827-apple-app-store-children-risk/"/>
+        <updated>2021-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneの写真やメッセージをスキャンすることを発表しましたが、「かえって子どもの権利が侵害される」として世界各国の人権団体から非難されています。そんな中、テクノロジーの透明性を保つことを目的とするプロジェクトチーム・Tech Transparency Project(TTP)が「AppleはApp Storeで配布されている成人向けアプリが子どもに与えるリスクを放置している」とする調査結果を発表しました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleは約1兆6500億円を「Safariのデフォルト検索エンジン」の立場を守るためAppleに支払う可能性]]></title>
+        <id>https://gigazine.net/news/20210827-google-pay-15b-default-safari-search/</id>
+        <link href="https://gigazine.net/news/20210827-google-pay-15b-default-safari-search/"/>
+        <updated>2021-08-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Safariのデフォルト検索エンジンであり続けるため、2021年だけで150億ドル(約1兆6500億円)をAppleに支払う可能性があると報じられています。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[弾丸を超える速さで繰り出されるシャコのパンチをマネできるロボットが誕生]]></title>
+        <id>https://gigazine.net/news/20210827-mantis-shrimp-robot/</id>
+        <link href="https://gigazine.net/news/20210827-mantis-shrimp-robot/"/>
+        <updated>2021-08-26T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID-19の平均治療費は約220万円、ワクチン未接種者の治療には約2500億円が費やされている]]></title>
+        <id>https://gigazine.net/news/20210827-unvaccinated-covid-19-cost/</id>
+        <link href="https://gigazine.net/news/20210827-unvaccinated-covid-19-cost/"/>
+        <updated>2021-08-26T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[考えていることが判明していますが、一方でワクチン未接種者の間で感染が拡大していることが問題視されています。そんな中、新たに、COVID-19の入院患者の治療費が平均2万ドル(約220万円)であり、ワクチン未接種者に対する2カ月間の推定費用総額が23億ドル(約2500億円)に上ることが判明しました。これまで治療費の多くは保険などでカバーされてきましたが、今後は患者側の支払いが増加する可能性も示されています。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人物追跡ベンチマーク MOTChallenge の評価指標を徹底理解したい]]></title>
+        <id>https://qiita.com/miiuchu/items/a08f04531774bce11553?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/miiuchu/items/a08f04531774bce11553?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-26T15:48:33.000Z</updated>
+        <summary type="html"><![CDATA[この記事は作成途中です。（定義は全て書きましたが追跡成功推移例が５つ中１つしか示せていません）LGTMが10以上集まるのであれば作成を再開するつもりです。
+
+
+はじめに
+
+人物追跡でよく耳にする MOT…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドクロがゲーミングレインボーに輝くIntelの超小型ベアボーンキット「NUC 11 Extreme Kit」のベンチマークをやってみた]]></title>
+        <id>https://gigazine.net/news/20210826-intel-nuc-11-extreme-kit-benchmark/</id>
+        <link href="https://gigazine.net/news/20210826-intel-nuc-11-extreme-kit-benchmark/"/>
+        <updated>2021-08-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ベアボーンキットで、デフォルトで第11世代Coreプロセッサを搭載しています。ゲーマー向けというからには「光り方」と「スペック」がそれぞれ気になるところなので、実際に光っぷりをチェック＆ベンチマークを行ってみました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1本のブラックサンダーにアーモンド・ヘーゼルナッツ・カシューナッツ・ココナッツを凝縮した食感重視の「4種のナッツのサンダー」試食レビュー]]></title>
+        <id>https://gigazine.net/news/20210826-black-thunder-nuts/</id>
+        <link href="https://gigazine.net/news/20210826-black-thunder-nuts/"/>
+        <updated>2021-08-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多機能コミュニケーションツール「Discord」のこれまでとこれからについて創業者が語る]]></title>
+        <id>https://gigazine.net/news/20210826-discord-interview/</id>
+        <link href="https://gigazine.net/news/20210826-discord-interview/"/>
+        <updated>2021-08-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discord」です。そんなDiscordが「身売り先を模索中」と報じられてから、Microsoft・Twitter・Amazon・Epic Gamesといった名だたる企業が買収に興味を示したものの、Discordの創設者でありCEOでもあるジェイソン・シトロン氏はそのすべてからの提案を拒否してきました。そんなシトロン氏が、Discordのこれまでとこれからについて経済紙・Financial Timesのインタビューに答えています。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新世代の自動補完プラグイン ddc.vim]]></title>
+        <id>https://zenn.dev/shougo/articles/ddc-vim-beta</id>
+        <link href="https://zenn.dev/shougo/articles/ddc-vim-beta"/>
+        <updated>2021-08-26T11:19:39.000Z</updated>
+        <summary type="html"><![CDATA[始めに
+ここ数ヵ月力を入れてddc.vimの開発をしていて、ようやく一通りの機能がそろいました
+ので、広くユーザーに使ってもらうフェーズに進めたいと考えています。
+ユーザーからの要望やバグ報告に対応が終わってから正式版の1.0となりますのでよろし
+くお願いします。
+
+ ddc.vim の特徴
+
+ Vim8/neovim 両対応
+deoplete.nvimでもvim-hug-neovim-rpcを用いることによりVimに対応していました。
+しかしインストールが煩雑になる、neovimと比較してパフォーマンスに問題がある、安
+定性への問題がありました。
+ddc.vimではdenops.v...]]></summary>
+        <author>
+            <name>Shougo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青少年の深夜帯のオンラインゲームプレイを禁止する韓国の「シャットダウン法」が10年の時を経て廃止へ]]></title>
+        <id>https://gigazine.net/news/20210826-korea-abolition-game-curfew-law/</id>
+        <link href="https://gigazine.net/news/20210826-korea-abolition-game-curfew-law/"/>
+        <updated>2021-08-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOTweenでSequenceをthis.DOKillする方法。SetIdとSetTargetの違い。]]></title>
+        <id>https://qiita.com/weray166/items/2a072b49fa3c301369a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/weray166/items/2a072b49fa3c301369a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-26T10:09:26.000Z</updated>
+        <summary type="html"><![CDATA[SetIdを使おう！
+
+SetId(this)を使用します。
+
+void Start()
+{
+    DOTween.Sequence().Append(~~).SetId(this);
+}
+
+// 上のSeq…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人気FPS「Destiny 2」にアンチチートツールが追加、チート対策が健全なプレイヤーへのアピールポイントになる可能性]]></title>
+        <id>https://gigazine.net/news/20210826-anti-cheat-games-selling-point/</id>
+        <link href="https://gigazine.net/news/20210826-anti-cheat-games-selling-point/"/>
+        <updated>2021-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Halo」シリーズなどを手がけるアメリカのゲーム開発企業・Bungieは2021年8月24日のブログ投稿で、オンラインマルチプレイFPS「Destiny 2」のアップデートと共にアンチチートソフトウェア「BattlEye」を追加し、チート対策を強化したと発表しました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravel で Algolia を利用していくつかのモデルのデータを混ぜて検索する方法]]></title>
+        <id>https://zenn.dev/manalink/articles/manalink-algolia-multiple-models</id>
+        <link href="https://zenn.dev/manalink/articles/manalink-algolia-multiple-models"/>
+        <updated>2021-08-26T09:23:04.000Z</updated>
+        <summary type="html"><![CDATA[オンライン家庭教師マナリンク 開発の Technote です。
+今回は Laravel で Algolia を利用していくつかのモデルのデータを混ぜて検索する方法を紹介します。
+
+
+ Laravel Scout
+Algolia の導入自体は Laravel Scout を利用すると、モデルの更新・削除の際に検索に必要なデータの同期を自動でやってくれるのでとても簡単です。
+https://laravel.com/docs/8.x/scout
+ただ、今回はいくつかのモデルのデータを混ぜて index を作成したいので Laravel Scout だけでは難しいです。
+
+ Scout Exte...]]></summary>
+        <author>
+            <name>マナリンク Tech Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年8月26日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20210826-headline/</id>
+        <link href="https://gigazine.net/news/20210826-headline/"/>
+        <updated>2021-08-26T09:20:00.000Z</updated>
+        <summary type="html"><![CDATA[続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macで複数のアプリが起動不可に、その原因とは？]]></title>
+        <id>https://gigazine.net/news/20210826-mac-untrusted-certificate-authorities/</id>
+        <link href="https://gigazine.net/news/20210826-mac-untrusted-certificate-authorities/"/>
+        <updated>2021-08-26T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[セキュリティ機能「XProtect」と「MRT」のアップデートを配信しました。Mac関連の情報を扱うウェブサイトを運営するリッチ・トルートン氏は、今回のセキュリティアップデートに伴って複数のアプリが起動不可になったとして、その原因を解説しています。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.jsとFirebaseでCookieを使った認証処理を実装する]]></title>
+        <id>https://zenn.dev/uttk/articles/f48fc75120f018</id>
+        <link href="https://zenn.dev/uttk/articles/f48fc75120f018"/>
+        <updated>2021-08-26T08:41:39.000Z</updated>
+        <summary type="html"><![CDATA[この記事について
+Firebase AuthenticationとNext.jsのgetServerSideProps()を使って、Cookieを使ったセッション管理方法を、この場を借りて共有したいと思います💪
+また、この記事の内容は基本的に以下の記事の内容を踏襲したものとなっています。そのため、内容やソースコードに引用などが含まれますので、予めご了承ください🙇‍♂️
+https://firebase.google.com/docs/auth/admin/manage-cookies?hl=ja
+それでは行きましょう🛴
+
+ 環境構築
+
+この記事ではFirebaseの環境構築については...]]></summary>
+        <author>
+            <name>uttk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GASでもできるけど、スプシをAPI化するサービスを作ってみた。そして、そのときハマったこと。]]></title>
+        <id>https://qiita.com/kira_puka/items/b61f8cd682161afb55a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kira_puka/items/b61f8cd682161afb55a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-26T08:09:34.000Z</updated>
+        <summary type="html"><![CDATA[開発しているGoogleスプレッドシートのAPI化サービス「SSSAPI」。
+無事にオープンβ版を公開できたので、利用技術や開発時にハマった点をまとめてみました。
+なにかの参考になれば。
+
+https…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core Animationでframe情報が更新されなくて困ったので対応方法を模索しました]]></title>
+        <id>https://zenn.dev/st43/articles/c8d2ef132a03c8</id>
+        <link href="https://zenn.dev/st43/articles/c8d2ef132a03c8"/>
+        <updated>2021-08-26T08:09:10.000Z</updated>
+        <summary type="html"><![CDATA[iOSアプリで、アニメーションで開閉するボタンを実装したところ、Core Animationの動作で苦しめられました。
+そこで調べたこと、得られた知見を書いていきます。
+
+ サンプル
+説明のために、サンプルアプリを作成しました。
+このようなアニメーションをするボタンです。
+https://www.youtube.com/watch?v=12EkME-MLBc
+
+ そもそもiOS開発でアニメーションを実装するには
+今回僕はiOSのアニメーション実装がはじめてだったので、そもそもどうしたらいいかから調べはじめました。
+大方針としては3つあります。
+
+
+UIViewのanimate()を使う
+...]]></summary>
+        <author>
+            <name>蔀</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP の型宣言は変数の型のチェックではない]]></title>
+        <id>https://qiita.com/tanakahisateru/items/6abf34e7612723f82f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/tanakahisateru/items/6abf34e7612723f82f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-26T07:52:52.000Z</updated>
+        <summary type="html"><![CDATA[タイトルのとおりです。
+
+https://3v4l.org/iObP4
+
+<?php
+function add(int $a, int $b): int
+{
+    return $a + $b;
+}
+
+echo…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界で最も使われるオープンソースのUNIX系OS「Linux」が生誕30周年]]></title>
+        <id>https://gigazine.net/news/20210826-linux-30-years-happy-birthday/</id>
+        <link href="https://gigazine.net/news/20210826-linux-30-years-happy-birthday/"/>
+        <updated>2021-08-26T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[リーナス・トーバルズが自分で開発したOSカーネルである「Linux」を公開しました。2021年8月25日で「Linuxの誕生日」からちょうど30年を迎えることとなります。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【検証】小腸の表面積がテニスコート１面分ってまじ？]]></title>
+        <id>https://zenn.dev/nozawazawa/articles/01bc801a89a953</id>
+        <link href="https://zenn.dev/nozawazawa/articles/01bc801a89a953"/>
+        <updated>2021-08-26T06:54:23.000Z</updated>
+        <summary type="html"><![CDATA[この記事は「マイスター・ギルド：夏のアドベントカレンダー2021」14日目の記事です。
+こんにちは。
+見た目はおじさん、中身は小学生の逆コナン 、野澤です。
+さっそくですが、
+みなさんはお持ちですか...？ 小腸
+私は持ってます。いい感じのを持ってます。
+この小腸ですが、表面積はテニスコート１面分に相等するって聞いたことありませんか？
+私は中学生だった頃に理科の授業で先生から教わりました。
+先生「小腸の表面積はテニスコート１面分もあるんやでぇ（どやっ）」
+私「へぇ〜！すごい！！（ほんまか？？？）」
+なぜだかその時は先生にいらっとしました。
+
+誰が言い出したんでしょうね？これ。
+教科書には...]]></summary>
+        <author>
+            <name>野澤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intelのゲーマー向け超小型ベアボーンキット「NUC 11 Extreme Kit」分解、中身は一体どうなっているのか？]]></title>
+        <id>https://gigazine.net/news/20210826-intel-nuc-11-extreme-kit-inside/</id>
+        <link href="https://gigazine.net/news/20210826-intel-nuc-11-extreme-kit-inside/"/>
+        <updated>2021-08-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第11世代Coreプロセッサ(Tiger Lake)を搭載しているというだけでなく、超コンパクトサイズなのにフルサイズのグラフィックボードを取り付けられるというベアボーンキットです。前回の記事では本体を梱包する化粧箱自体に圧倒されるという不測の事態に見舞われましたが、今回は本体の分解編。フルサイズのグラフィックボードを取り付けた際に内部の取り回しはどうなるのかなどを、実際にチェックしてみました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクラム開発におけるストーリーポイント設定の極意]]></title>
+        <id>https://zenn.dev/noraworld/articles/scrum-story-points</id>
+        <link href="https://zenn.dev/noraworld/articles/scrum-story-points"/>
+        <updated>2021-08-26T05:31:43.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+この記事では、スクラム開発において重要な要素の一つであるストーリーポイントについて解説する。
+タイトルに「極意」という仰々しいワードを入れているが、筆者が個人的に感じていることや考えていることも含まれるため、参考程度に読んでほしい。
+
+ ストーリーポイントとは
+あるタスクを完了させるために必要な工数を表す指標の一つである。タスク A は 3 ポイント、タスク B は 5 ポイント、のように設定していく。
+
+ ストーリーポイントは時間見積もりではない
+タスクを完了させるために必要な工数だから、3 ポイントだから 3 時間かかる、5 ポイントだから 5 時間かかる、という指標で...]]></summary>
+        <author>
+            <name>noraworld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FacebookがMessengerに「誕生日の現金ギフト機能」など10個の新機能を追加、10周年を記念して]]></title>
+        <id>https://gigazine.net/news/20210826-10-years-of-messenger/</id>
+        <link href="https://gigazine.net/news/20210826-10-years-of-messenger/"/>
+        <updated>2021-08-26T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産取引所のBinanceを「適切に監視できない」と規制当局が判断していたことが明らかに]]></title>
+        <id>https://gigazine.net/news/20210826-fca-supervised-binance/</id>
+        <link href="https://gigazine.net/news/20210826-fca-supervised-binance/"/>
+        <updated>2021-08-26T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[金融行動監視機構(FCA)が、規制対象としていた暗号資産取引所であるBinanceのイギリス支社、Binance Markets Limitedについて、「適切に監視することができない」と判断し、マネーロンダリングなどの重大なリスクへの懸念を表明していたことが明らかになりました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワクチンの追加接種で抗体が初回接種28日後の9倍に増加することをジョンソン＆ジョンソンが報告]]></title>
+        <id>https://gigazine.net/news/20210826-jnj-vaccine-boost/</id>
+        <link href="https://gigazine.net/news/20210826-jnj-vaccine-boost/"/>
+        <updated>2021-08-26T03:40:00.000Z</updated>
+        <summary type="html"><![CDATA[1回接種でOKのジョンソン＆ジョンソン製において、追加接種を行うことで、抗体数が初回接種28日後の数値の9倍に増加することが報告されています。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google傘下のFitbitがフィットネストラッカー「Charge 5」を発表]]></title>
+        <id>https://gigazine.net/news/20210826-fitbit-charge-5/</id>
+        <link href="https://gigazine.net/news/20210826-fitbit-charge-5/"/>
+        <updated>2021-08-26T03:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Fitbitが、フィットネストラッカーの新製品「Charge 5」を発表しました。カラー有機ELディスプレイを採用したボタンレス端末で、心拍変動や呼吸数の検出、発汗量の変化を検出する皮膚電気活動(EDA)スキャンアプリなどの機能を用いて、日常の健康管理を行えます。日本での予定販売価格は税込2万4990円です。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「古いiPhoneで国や地域の設定を『フランス』にすると動作が速くなる」というウワサは本当なのか？]]></title>
+        <id>https://gigazine.net/news/20210826-old-iphone-region-france-faster/</id>
+        <link href="https://gigazine.net/news/20210826-old-iphone-region-france-faster/"/>
+        <updated>2021-08-26T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[国や地域の設定を『フランス』に変えたところ、iPhoneの動作が速くなった」とインターネットユーザーが発信して話題を呼んでいます。「自分のiPhoneでも動作が高速になった」「iPadでも効果があった」といった反応が寄せられる中、中国のテクノロジー系メディア・快科技がそのウワサが本当かどうかを検証しました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleが1兆円・Microsoftは2兆円規模のセキュリティ対策を政府と約束、新たなフレームワークも構築へ]]></title>
+        <id>https://gigazine.net/news/20210826-apple-google-microsoft-amazon-cybersecurity/</id>
+        <link href="https://gigazine.net/news/20210826-apple-google-microsoft-amazon-cybersecurity/"/>
+        <updated>2021-08-26T03:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Blue Coat Photos
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「無料でアフガン難民2万人に家を提供する」とAirbnbが発表]]></title>
+        <id>https://gigazine.net/news/20210826-airbnb-temporarily-house-afghan-refugees/</id>
+        <link href="https://gigazine.net/news/20210826-airbnb-temporarily-house-afghan-refugees/"/>
+        <updated>2021-08-26T03:17:00.000Z</updated>
+        <summary type="html"><![CDATA[NATO Training Mission-Afghanistan
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界で3000万枚以上売れたニルヴァーナのアルバムのジャケット写真が「児童ポルノだ」と当時赤ちゃんモデルだった本人から訴えられる]]></title>
+        <id>https://gigazine.net/news/20210826-nirvana-nevermind-cover-sues/</id>
+        <link href="https://gigazine.net/news/20210826-nirvana-nevermind-cover-sues/"/>
+        <updated>2021-08-26T03:06:00.000Z</updated>
+        <summary type="html"><![CDATA[ニルヴァーナの2枚目のアルバムである「ネヴァーマインド」のジャケット写真になった赤ちゃんが、「あの写真は児童ポルノだ」としてレコード会社を相手取り訴訟を起こしたことが話題となっています。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好みのグラボでハイスペックゲーミングマシンを構築できるIntelの超小型組み立てPC「NUC 11 Extreme Kit」開封、SF作品の兵器を取り出す瞬間のような気分に浸れる超特殊化粧箱]]></title>
+        <id>https://gigazine.net/news/20210826-intel-nuc-11-extreme-kit-photos/</id>
+        <link href="https://gigazine.net/news/20210826-intel-nuc-11-extreme-kit-photos/"/>
+        <updated>2021-08-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第11世代Coreプロセッサ(Tiger Lake)を搭載したゲーマー向けベアボーンキットの「NUC 11 Extreme Kit(コードネーム：Beast Canyon)」が2021年第3四半期に登場します。一足先に実機を借りることができたので使ってみようとしたわけですが、文字通り見たことないような超特殊な化粧箱に使う前から圧倒されました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「カレーは飲み物」をまさに具現化した缶入りスープ「カレーな気分中辛」は10種類のスパイスが効いて小腹を満たすにはピッタリ]]></title>
+        <id>https://gigazine.net/news/20210826-pokkasapporo-curry-na-kibun/</id>
+        <link href="https://gigazine.net/news/20210826-pokkasapporo-curry-na-kibun/"/>
+        <updated>2021-08-26T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[カレーな気分中辛」が2021年8月23日に登場しました。香味野菜とビーフとポークのうま味、そして10種類のスパイスが溶け込んだスープで、パンやおにぎりとの相性を考えて開発されたとのことで、実際におにぎりやナンと一緒に飲んでみました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebookが開発中のスマートグラスの詳細が判明、一体どんな機能が搭載されているのか？]]></title>
+        <id>https://gigazine.net/news/20210826-facebook-project-aria-ar-glasses-gemini/</id>
+        <link href="https://gigazine.net/news/20210826-facebook-project-aria-ar-glasses-gemini/"/>
+        <updated>2021-08-26T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Project Aria」を2020年9月17日に発表しました。そんな開発中のスマートグラスの取扱説明書が発見され、外観や機能の一部が明らかになっています。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leafletであっさり地図を出す]]></title>
+        <id>https://zenn.dev/sdkfz181tiger/articles/c65b971a7fc8f6</id>
+        <link href="https://zenn.dev/sdkfz181tiger/articles/c65b971a7fc8f6"/>
+        <updated>2021-08-26T02:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Leafletとは
+Leafletは、JavaScriptを使って簡単に地図を表示できる、大人気ライブラリです。
+記述方もシンプルでわかりやすいのでオススメです!!
+Leaflet
+
+
+ MapBoxアカウントから、トークンを取得する
+Leafletは、MapBoxというWebサービスと連動しています。
+(地図データはここから借りているのですね)
+MapBox
+次の手順に従って、専用のトークンを取得します。
+
+ 1, MapBoxアカウントを作る
+先ずはアカウントを作ります。
+"Sign up"ボタンを押して、アカウントを作りましょう。
+
+
+ 2, ログインページから、キーを取得する...]]></summary>
+        <author>
+            <name>しめじ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「やっぱりポルノOK」とOnlyFansが発表、銀行が性的コンテンツを容認したため]]></title>
+        <id>https://gigazine.net/news/20210826-onlyfans-ban-porn-suspends-plan/</id>
+        <link href="https://gigazine.net/news/20210826-onlyfans-ban-porn-suspends-plan/"/>
+        <updated>2021-08-26T02:01:00.000Z</updated>
+        <summary type="html"><![CDATA[OnlyFansが2021年8月25日に、性的コンテンツを禁止する計画の実施を見合わせると発表しました。OnlyFansは、性的コンテンツに寛容な姿勢で知られていましたが、8月19日に性的コンテンツを規制する方針を打ち出していました。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Western Digitalがキオクシアと合併交渉中であることが判明、買収額は2兆円超か]]></title>
+        <id>https://gigazine.net/news/20210826-western-digital-kioxia-merge/</id>
+        <link href="https://gigazine.net/news/20210826-western-digital-kioxia-merge/"/>
+        <updated>2021-08-26T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13ではマスクを着用したまま顔認証のFace IDが使えるようになる可能性]]></title>
+        <id>https://gigazine.net/news/20210826-iphone-13-face-id-masks/</id>
+        <link href="https://gigazine.net/news/20210826-iphone-13-face-id-masks/"/>
+        <updated>2021-08-26T01:17:00.000Z</updated>
+        <summary type="html"><![CDATA[FrontPageTech.comが報じています。      
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音声認識AIを活用したレシピの紹介]]></title>
+        <id>https://qiita.com/Axross_SBiv/items/183fe8e4ac7ab629d49c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Axross_SBiv/items/183fe8e4ac7ab629d49c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-26T00:40:48.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+Axrossを運営している藤原です。
+
+Axross とは、エンジニアの"教育"と"実務"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いのもと、ソフトバンクの社内起業…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホットリロードでオートスクロール]]></title>
+        <id>https://zenn.dev/enjoetoh/articles/javascript-auto-scroll</id>
+        <link href="https://zenn.dev/enjoetoh/articles/javascript-auto-scroll"/>
+        <updated>2021-08-26T00:18:42.000Z</updated>
+        <summary type="html"><![CDATA[できごと
+ページの表示がファイル読み込みのたびに先頭まで戻るのがいや。
+
+ ここまではできたとする
+
+エディタでテキストを書いて保存すると、いい感じに変換されたHTMLファイルが生成されて保存される。
+HTMLファイルの変更を検知してページが再読み込みされる。
+
+
+ たぶんそこで起こること
+エディタで作成するテキストが長くなっていったとき、エディタではスクロールが行われるが、ホットリロードされる表示側では、相変わらず冒頭から表示されている。反映結果を確かめるためにいちいちスクロールが必要。
+
+ 方針
+
+編集中のテキストからHTMLが生成されるときに、現在の編集箇所を示すタグを仕込んで...]]></summary>
+        <author>
+            <name>enjoetoh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[評価額3500億円でビットコインインフラ企業「Blockstream」が資金調達に成功したと発表、ユニコーン企業の仲間入りへ]]></title>
         <id>https://gigazine.net/news/20210826-blockstream-series-b-financing/</id>
@@ -14,6 +562,18 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[WWDC 2021] Xcode 13 DocCを使ってフレームワークのドキュメントを自動作成およびwebに公開する]]></title>
+        <id>https://qiita.com/MaShunzhe/items/88a40386ef3f18658240?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/MaShunzhe/items/88a40386ef3f18658240?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T23:23:33.000Z</updated>
+        <summary type="html"><![CDATA[Xcode 13はコード内のコメントに基づいてドキュメントを自動生成できるようになりました。
+
+独自のドキュメントページをカスタマイズして追加したり、ドキュメントファイルを他のユーザーと共有したり、ド…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -39,24 +599,88 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google社内では「言論統制」によって独占禁止法について考えることすら難しくなっているという指摘]]></title>
-        <id>https://gigazine.net/news/20210826-how-google-limits-thought-about-antitrust/</id>
-        <link href="https://gigazine.net/news/20210826-how-google-limits-thought-about-antitrust/"/>
-        <updated>2021-08-25T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[検索エンジン最適化(SEO)の専門家であるサイラス・シェパード氏が「社内の言論統制が原因である」と解説しています。      
-続きを読む...]]></summary>
+        <title type="html"><![CDATA[「挫折しないドメイン駆動設計」参加ノート]]></title>
+        <id>https://qiita.com/e99h2121/items/63e902a0d1c74bd0a0fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/e99h2121/items/63e902a0d1c74bd0a0fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T21:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Dojo夏休み企画：挫折しないドメイン駆動設計（DDD） - connpass を聴講したのでそのノート。
+
+
+
+ドメイン駆動設計（DDD）とは
+
+
+DDDの関心の高まり
+ドメインって何
+ドメインに興味を持とう…]]></summary>
         <author>
-            <name>GIGAZINE</name>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[高速日本語全文検索「Mroonga」で編集部の専用過去記事検索を爆速化し作業効率を上げてみた]]></title>
-        <id>https://gigazine.net/news/20210825-articles-search-system/</id>
-        <link href="https://gigazine.net/news/20210825-articles-search-system/"/>
-        <updated>2021-08-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[続きを読む...]]></summary>
+        <title type="html"><![CDATA[JavaScript マウスをドラッグした半径で数値を入力]]></title>
+        <id>https://qiita.com/akebi_mh/items/840adfefb8fe0c088c83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/akebi_mh/items/840adfefb8fe0c088c83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T20:40:55.000Z</updated>
+        <summary type="html"><![CDATA[設置デモ
+
+(スマホには対応していません)
+
+<!DOCTYPE html>
+<html lang='ja'>
+<head>
+<meta charset='utf-8'>
+<title>ドラッグ半径で…]]></summary>
         <author>
-            <name>GIGAZINE</name>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Salesforce】Apexでの文字列結合]]></title>
+        <id>https://qiita.com/maripoyo/items/2b32072a83048a3edfbc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/maripoyo/items/2b32072a83048a3edfbc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T16:57:14.000Z</updated>
+        <summary type="html"><![CDATA[3行で要約
+
+
+本番運用しているSalesforceアプリケーションにて、「Apex CPU time limit exceeded」というエラーが発生するようになりました。
+どうやらデータ量が増えて…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紙で申請を出す居酒屋店員のシフト希望と管理業務をちょっとスマートにする]]></title>
+        <id>https://qiita.com/n0bisuke/items/0c6d6a236b31e3897d41?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/n0bisuke/items/0c6d6a236b31e3897d41?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T14:58:09.000Z</updated>
+        <summary type="html"><![CDATA[この記事は「Qiitaエンジニアフェスタ2021」の参加記事です。
+
+こんにちは、某居酒屋チェーンの店員をしています。新橋店です。
+
+
+
+
+
+（コロナ禍の休業要請などで中々シフトに入れていませんが、）
+
+うちの店…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モバイル『コンテナ・クラスタ』を作る！]]></title>
+        <id>https://qiita.com/ie4/items/e8939b5487b46c091e22?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/ie4/items/e8939b5487b46c091e22?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T14:53:59.000Z</updated>
+        <summary type="html"><![CDATA[夏！もほぼ終わりかけてますが、8月の残り数日で、夏休みの自由研究がてら
+「コンテナをもっと勉強したい」あるいは「RaspberryPiを使って何か作ってみたい」
+そんなニーズはありますかね？
+
+今回…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -77,6 +701,20 @@ https://www.4gamer.net/games/032/G003263/20140904089/
 https://www.youtube.com/watch?v=MzWQNB...]]></summary>
         <author>
             <name>かもそば</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LivebookでElixirアプリケーションにWeb UIを追加する]]></title>
+        <id>https://zenn.dev/kentarok/articles/e281f08634aede</id>
+        <link href="https://zenn.dev/kentarok/articles/e281f08634aede"/>
+        <updated>2021-08-25T13:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Webアプリではないけれども、アプリケーションの現在の状況がどうなっているかを可視化するために、ちょっとしたUIをつけたいということがあったりすると思います。たとえば、記録され続ける時系列データをちょっとグラフ化して見てみたいとか。しかし、それだけのためにPhoenixを使ってWebアプリを作るのも面倒です。
+そこで、Livebookを使うことでアプリケーションに動的Web UIを簡単に追加してみます。
+
+ アプリケーション
+こんなアプリケーションを作っているとしましょう。1秒ごとに0〜100までのランダムな数字を生成して、時系列データとして保持しておくというものです。これ自体は特に意味...]]></summary>
+        <author>
+            <name>Kentaro Kuribayashi</name>
         </author>
     </entry>
     <entry>
@@ -104,17 +742,6 @@ https://www.youtube.com/watch?v=MzWQNB...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[こだわり卵の風味を存分に楽しめる「たまごかけご飯」や「親子丼」を卵料理専門店「うちのたまご」で食べてみた]]></title>
-        <id>https://gigazine.net/news/20210825-uchinotamago/</id>
-        <link href="https://gigazine.net/news/20210825-uchinotamago/"/>
-        <updated>2021-08-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[阪急三番街に登場しています。卵料理だけを専門に扱う店で食べられる卵かけご飯や親子丼とは一体どんな味がするのか気になったので、実際に食べて味を確かめてみました。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ISUCON11で初参加して予選敗退しました]]></title>
         <id>https://zenn.dev/rymiyamoto/articles/f635d1a4ad2f0e</id>
         <link href="https://zenn.dev/rymiyamoto/articles/f635d1a4ad2f0e"/>
@@ -137,24 +764,24 @@ https://isucon.net/archives/56021246.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samsungの縦型折り畳み式スマホ「Galaxy Z Fold3」海外レビューまとめ、耐久性アップ＆Sペン対応で利便性向上するも価格がネックか]]></title>
-        <id>https://gigazine.net/news/20210825-samsung-galaxy-z-fold3-reviews/</id>
-        <link href="https://gigazine.net/news/20210825-samsung-galaxy-z-fold3-reviews/"/>
-        <updated>2021-08-25T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Galaxy Z Fold3」は、横開きの折り畳み式スマートフォン「Galaxy Fold」シリーズの第3世代モデルで、スタイラスのSペン対応や画面埋め込み型フロントカメラ、7.6インチ・2208×1768ピクセル解像度・リフレッシュレート120Hzのメインディスプレイなどが特徴です。そんなGalaxy Z Fold3を実際に触った上での感想をさまざまなメディアが発信しています。      
-続きを読む...]]></summary>
+        <title type="html"><![CDATA[CS放浪記　〜再帰ってどんな動きをしているの？〜]]></title>
+        <id>https://zenn.dev/heromina/articles/102d66a5a58f95</id>
+        <link href="https://zenn.dev/heromina/articles/102d66a5a58f95"/>
+        <updated>2021-08-25T10:19:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+こんにちは。ひろです。CS放浪記へようこそ！
+今回から数回にわたり「再帰」を見ていきます。再帰についての簡単な紹介と、実行時にどのような動きをしているかを解説いたします。
+
+ 再帰って？
+まずは再帰とは何かについて話していきます。再帰とは「ある関数の処理の中で自身を再度関数として呼び出す」ことを言います。言葉だと何のことかさっぱりだと思うので、例を出します。
+ミンミンゼミの鳴き声を出力する関数を作成してみます。ミンミンゼミの鳴き声は「ミンミンミンミーン」のように鳴くことを前提とします。この鳴き方の特徴は
+
+「ミン」を連続して出力する
+最後は「ミーン」と出力する
+
+と分解でき...]]></summary>
         <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotifyが誰でもポッドキャストで収益化できるポッドキャストサブスクリプションを発表]]></title>
-        <id>https://gigazine.net/news/20210825-spotify-opening-podcast-subscriptions-all/</id>
-        <link href="https://gigazine.net/news/20210825-spotify-opening-podcast-subscriptions-all/"/>
-        <updated>2021-08-25T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
+            <name>ひろさん</name>
         </author>
     </entry>
     <entry>
@@ -174,77 +801,65 @@ https://isucon.net/archives/56021246.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[240億円の資金調達にデータ可視化ツール「Grafana」の開発企業が成功]]></title>
-        <id>https://gigazine.net/news/20210825-grafana-220-million/</id>
-        <link href="https://gigazine.net/news/20210825-grafana-220-million/"/>
-        <updated>2021-08-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Grafana」を開発するGrafana Labsが2億2000万ドル(約240億円)の資金調達に成功しました。Grafana Labsは調達した資金を基にサービスの拡充を行うと述べています。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Query エディタでテーブルの行を絞り込むとき、うっかりやらかしていること]]></title>
-        <id>https://qiita.com/PowerBIxyz/items/47bcb8b42cd417e867ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/PowerBIxyz/items/47bcb8b42cd417e867ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-25T09:34:02.000Z</updated>
-        <summary type="html"><![CDATA[何回か発言していたのだけど念押しで言っておきますね。Power Query は Excel ではないですからね。ワークシート上での操作のノリで "適用するステップ" をキメたら駄目ね。間違った処理が…]]></summary>
+        <title type="html"><![CDATA[【React / Laravel / AWS Lambda】ポートフォリオ (カンバン方式のタスク管理アプリ) を作成しました。]]></title>
+        <id>https://qiita.com/zuka-e/items/9a985f0dd5db21bc48d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/zuka-e/items/9a985f0dd5db21bc48d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T10:04:23.000Z</updated>
+        <summary type="html"><![CDATA[主にスキル向上を目的に、ポートフォリオとしてタスク管理アプリ (Miwataru) を作成しました。  
+
+これはシングルページアプリケーション (SPA) になっており、フロントエンドには、TypeSc…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021年8月25日のヘッドラインニュース]]></title>
-        <id>https://gigazine.net/news/20210825-headline/</id>
-        <link href="https://gigazine.net/news/20210825-headline/"/>
-        <updated>2021-08-25T09:09:00.000Z</updated>
-        <summary type="html"><![CDATA[続きを読む...]]></summary>
+        <title type="html"><![CDATA[マネージャー・リーダーの私にとって有益な知見が得られた書籍]]></title>
+        <id>https://qiita.com/kazuo_reve/items/6976029e72763ea73245?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kazuo_reve/items/6976029e72763ea73245?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T10:00:39.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+マネージャー・リーダーの私にとって有益な知見が得られた書籍を簡単な所感とともに、まとめておきます。
+随時、更新していく予定です。
+
+ここに示した書籍は、マネージャー・リーダーの経験を得た後…]]></summary>
         <author>
-            <name>GIGAZINE</name>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FlutterのTarget file “lib/main.dart” not foundの解消方法]]></title>
-        <id>https://zenn.dev/i_takashi/articles/328c984d405b77</id>
-        <link href="https://zenn.dev/i_takashi/articles/328c984d405b77"/>
-        <updated>2021-08-25T09:07:27.000Z</updated>
-        <summary type="html"><![CDATA[flutter runをした時に
-
-      
-        
-        Target file “lib/main.dart” not found
-
-
-      
-      が出てハマった。キャッシュが余計に残り意図しないエラーが出るようになった。
-数日前までは普通にコマンドを叩けたが突如コマンドを叩けなくなった。TimeMachineでプロジェクトをコマンドを叩けていた時点の状態に戻してもダメ。
-以下、解消方法
-
-
-File→Sync Project with Gradle Files
-
-
-
-プロジェクトルートの以下(キャッシュ周り)を削除
-
-
-
-.idea
-build...]]></summary>
+        <title type="html"><![CDATA[【TypeScript / React / CRA / Redux】タスク管理アプリ (ポートフォリオ) の実装過程 (フロントエンド編)]]></title>
+        <id>https://qiita.com/zuka-e/items/60afcc09464e10162338?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/zuka-e/items/60afcc09464e10162338?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T08:16:14.000Z</updated>
+        <summary type="html"><![CDATA[主にスキル向上を目的に、ポートフォリオとしてタスク管理アプリを作成しました。このページでは、主にフロントエンドを構成するために必要な実装とそのために利用したパッケージ及びそれらの初期設定などについて…]]></summary>
         <author>
-            <name>takashi🕊アプリ開発者</name>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[マクドナルドのマックシェイクがイギリスで提供不可能に]]></title>
-        <id>https://gigazine.net/news/20210825-mcdonald-run-out-of-milkshakes/</id>
-        <link href="https://gigazine.net/news/20210825-mcdonald-run-out-of-milkshakes/"/>
-        <updated>2021-08-25T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Brian Yap
-続きを読む...]]></summary>
+        <title type="html"><![CDATA[TwilioのFAX APIの代わりになるサービスを見つけたので利用してみた]]></title>
+        <id>https://qiita.com/TomTomoya/items/df2be5e3ebc32122eea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/TomTomoya/items/df2be5e3ebc32122eea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T08:15:32.000Z</updated>
+        <summary type="html"><![CDATA[TwilioのFax APIが2021年で終了する
+
+2021年でTwillioのFaxAPIの提供が終了するので、Twilioの他のサービスを探してみた。
+いろいろ探ってみたところ知り合いのDev…]]></summary>
         <author>
-            <name>GIGAZINE</name>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Laravel 8 / Sail / Fortify / Sanctum】タスク管理アプリ (ポートフォリオ) の実装過程 (バックエンド編)]]></title>
+        <id>https://qiita.com/zuka-e/items/3faf100cbcdf7ec40ee6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/zuka-e/items/3faf100cbcdf7ec40ee6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T08:15:29.000Z</updated>
+        <summary type="html"><![CDATA[主にスキル向上を目的に、ポートフォリオとしてタスク管理アプリを作成しました。このページでは、主にそのバックエンド部分の実装過程について触れていきます。  
+
+アプリケーションや作成したコード、フロントエン…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -257,28 +872,6 @@ CI/CD環境の構築は日頃アプリを作るエンジニアにとっては慣
 利用するCIサービスによってやり方は異なるので…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「脱中国」を暗号資産のマイニング企業が急ピッチで進めている、ビットコインの分散化がさらに進むと歓迎する声も]]></title>
-        <id>https://gigazine.net/news/20210825-cryptocurrency-miners-leaving-china/</id>
-        <link href="https://gigazine.net/news/20210825-cryptocurrency-miners-leaving-china/"/>
-        <updated>2021-08-25T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[政府による取り締まりの強化によってマイニング工場は国外移転を余儀なくされています。そんな中でアメリカ大手紙のウォール・ストリート・ジャーナルが、中国からの脱出を行っている暗号資産マイニング企業の動きについて報じています。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNS「OnlyFans」の性的コンテンツ規制について「銀行が原因」とCEOが明かす]]></title>
-        <id>https://gigazine.net/news/20210825-onlyfans-ban-adult-content-cause-bank/</id>
-        <link href="https://gigazine.net/news/20210825-onlyfans-ban-adult-content-cause-bank/"/>
-        <updated>2021-08-25T06:36:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年10月1日から性的コンテンツを規制することになった件について、創業者でCEOのティム・ストークリー氏が「一部の銀行がクリエイターへの送金を停止したため」であったことを明かしました。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
     <entry>
@@ -298,124 +891,16 @@ WebXR そのものを定める『標準仕様...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Golang / React / PostgreSQLのホットリロードできる開発環境をDockerで作ってみた]]></title>
-        <id>https://qiita.com/ktoshiya/items/cb91532d262ae1242b4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/ktoshiya/items/cb91532d262ae1242b4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-25T05:07:41.000Z</updated>
-        <summary type="html"><![CDATA[構成
+        <title type="html"><![CDATA[Kubernetes 1.22: 変更点まとめ(What's new!)]]></title>
+        <id>https://qiita.com/uesyn/items/7493fbbbeb5fa0794bae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/uesyn/items/7493fbbbeb5fa0794bae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-25T05:06:18.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
 
-
-バックエンド: Golang
-フロントエンド: React(TypeScript) + Tailwind CSS
-DB: PostgreSQL
-
-
-なぜ作ろうと思ったのか
-
-開発中に、バックエンド…]]></summary>
+このエントリは、Kubernetes 1.22 の CHANGELOG からWhat's new!と、各変更点についてまとめたページへのリンクです。
+詳細については各まとめページを参照し…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitterが「ツイートの表示にログインを義務化する」仕様を段階的に導入している可能性]]></title>
-        <id>https://gigazine.net/news/20210825-twitter-require-login-to-view-tweets/</id>
-        <link href="https://gigazine.net/news/20210825-twitter-require-login-to-view-tweets/"/>
-        <updated>2021-08-25T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[https://www.reddit.com/r/DataHoarder/comments/pa6dra/twitter_starts_to_require_login_to_view_tweets/
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国でAppleとGoogleの「アプリ内決済手段の強要」を禁じる法案が成立する見通し]]></title>
-        <id>https://gigazine.net/news/20210825-south-korea-set-curb-google-apple-dominance/</id>
-        <link href="https://gigazine.net/news/20210825-south-korea-set-curb-google-apple-dominance/"/>
-        <updated>2021-08-25T04:15:00.000Z</updated>
-        <summary type="html"><![CDATA[続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハッカーが探し求めてきた伝説の聖杯と言われる「Pegasus」の標的となった9人が特定へ、どんな人物だったのか？]]></title>
-        <id>https://gigazine.net/news/20210825-pegasus-hacks-zero-click-exploits/</id>
-        <link href="https://gigazine.net/news/20210825-pegasus-hacks-zero-click-exploits/"/>
-        <updated>2021-08-25T03:41:00.000Z</updated>
-        <summary type="html"><![CDATA[報じられました。Pegasusを用いたハッキングはiOSのゼロクリック脆弱(ぜいじゃく)性を利用したものであり、Appleは対策を講じていましたが、Pegasusはこのセキュリティ対策を回避。トロント大学の研究組織であるThe Citizen Labは新たに、Pegasusの監視対象となった9人の活動家と、その監視期間を特定し、どのようにハッキングが実施されたのかを明かしています。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Jetpack Compose】TabRowの背景色がWhiteにならない場合]]></title>
-        <id>https://qiita.com/yasukotelin/items/15ffad2c66a642746679?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/yasukotelin/items/15ffad2c66a642746679?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-25T03:39:55.000Z</updated>
-        <summary type="html"><![CDATA[問題点
-
-Jetpack ComposeのTabRowのbackgroundにwhiteを指定しているのになぜかグレーになってしまったり、正常に白色にならない場合があります。
-例えばこんな感じです。
-
-@Composable
-fun TabPage() {
-    var selectedTabIndex by remember { mutableStateOf(0) }
-
-    TabRow(
-        selectedTabIndex = selectedTabIndex,
-        modifier = Modifier
-            .fillMaxWidth()
-            .height(50.dp),
-        backgroundColor = Color.White
-    ) {
-        Tab(
-            selected = selectedTabIndex == 0,
-            onClick = { selectedTabIndex = 0 },
-            text = { Text("Tab1") }
-        )
-        Tab(
-            selected = selectedTabIndex == 1,
-            onClick = { selectedTabIndex = 1 },
-            text = { Text("Tab2") }
-        )
-    }
-}…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ級のパンデミックが発生する確率は1年間で「2％」]]></title>
-        <id>https://gigazine.net/news/20210825-covid-level-pandemic-emerging/</id>
-        <link href="https://gigazine.net/news/20210825-covid-level-pandemic-emerging/"/>
-        <updated>2021-08-25T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[パンデミックが世界を揺るがして1年以上の月日が経過していますが、これと同等規模のパンデミックが発生する確率は1年間で約2％もあることが、最新の研究により明らかになっています。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymoが完全自動運転タクシーの一般市民向けテストプログラムを開始]]></title>
-        <id>https://gigazine.net/news/20210825-waymo-san-francisco/</id>
-        <link href="https://gigazine.net/news/20210825-waymo-san-francisco/"/>
-        <updated>2021-08-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alphabet傘下の自動運転車開発企業・Waymoは、2020年10月からアリゾナ州フェニックスで完全自動運転タクシー「Waymo One」の正式サービスを開始して高い評価を得ています。WaymoはWaymo Oneのサービスエリア拡大に取り組んでおり、2021年8月24日(火)にはサンフランシスコで一般向けのテスト走行を開始しました。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[濃厚まろやかなミルクアイスと果汁＆果肉入りの風味豊かなももジェラートが一緒に楽しめる「たべる牧場もも」を食べてみた]]></title>
-        <id>https://gigazine.net/news/20210825-familymart-akagi-tabeboku-momo/</id>
-        <link href="https://gigazine.net/news/20210825-familymart-akagi-tabeboku-momo/"/>
-        <updated>2021-08-25T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
     <entry>
@@ -432,14 +917,34 @@ fun TabPage() {
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「Galaxy Z Fold 3」はブートローダーをアンロックするとカメラが無効化される]]></title>
-        <id>https://gigazine.net/news/20210825-samsung-galaxy-z-fold-3-camera-bootloader/</id>
-        <link href="https://gigazine.net/news/20210825-samsung-galaxy-z-fold-3-camera-bootloader/"/>
-        <updated>2021-08-25T02:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ブートローダーのロックを解除した場合、カメラが使えなくなる仕様になっていることがわかりました。あくまでソフトウェア的な制御で、ブートローダーのロックを戻せばカメラは再び使えるようになるとのことです。      
-続きを読む...]]></summary>
+        <title type="html"><![CDATA[複数環境に対応したTerraform運用環境構築]]></title>
+        <id>https://zenn.dev/mttk030/articles/4d4d6f677fd996</id>
+        <link href="https://zenn.dev/mttk030/articles/4d4d6f677fd996"/>
+        <updated>2021-08-25T02:12:41.000Z</updated>
+        <summary type="html"><![CDATA[概要
+実務でAWS & Terraformを使用する機会があったので
+その際得た運用環境の知見をまとめる。
+また、2章以降で紹介するTerraform運用手法は、一個人の最終的な到達点であり
+Terraformのベストプラクティスというわけではない為、参考程度に考えてください。
+(あえてterraform workspaceを使用していない等)
+
+ 本記事で扱う環境一覧
+
+開発環境　(ローカルPC)
+ステージング環境　(ステージング環境用AWSアカウント)
+本番環境　(本番環境用AWSアカウント)
+
+
+ 動作環境
+
+Linux
+
+Debian [v10.8]
+
+
+Window...]]></summary>
         <author>
-            <name>GIGAZINE</name>
+            <name>mttk030</name>
         </author>
     </entry>
     <entry>
@@ -457,86 +962,28 @@ K8sを始めるのに遅すぎるなんてことはありません。むしろ�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1億6300万のコアで120兆個のAIパラメーターをトレーニング可能なモンスターマシン「Cerebras CS-2」が発表される]]></title>
-        <id>https://gigazine.net/news/20210825-cerebras-cs-2/</id>
-        <link href="https://gigazine.net/news/20210825-cerebras-cs-2/"/>
-        <updated>2021-08-25T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[シリコンウェハーをそのまま使った巨大チップを備えた小型冷蔵庫サイズのディープラーニングシステム「Cerebras CS-2」を発表しました。      
-続きを読む...]]></summary>
+        <title type="html"><![CDATA[AWS ECS Exec 周りの OSS のごくごく一部に寄与できた話]]></title>
+        <id>https://zenn.dev/satoya/articles/5c5c16e571ed80</id>
+        <link href="https://zenn.dev/satoya/articles/5c5c16e571ed80"/>
+        <updated>2021-08-25T00:50:23.000Z</updated>
+        <summary type="html"><![CDATA[AWS ECS はマネージドなランタイムで Service, Task という独自のコンテキストでコンテナをサービスとして提供できるサービスです。
+https://aws.amazon.com/jp/ecs/
+ECS Fargate だとコンピューティングリソースもマネージドでインフラ管理コストが総合的に抑えられる点が利点です。
+定義上で S3 から環境変数を直接読み込めるような定義ができたり、CloudFormation サポートや CodeDeploy による B/G デプロイへの対応など他 AWS リソースとの紐付きが強い点が EKS(kubernetes) との大きな差分になるか...]]></summary>
         <author>
-            <name>GIGAZINE</name>
+            <name>satoya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ヌード写真欲しさにiCloudへ不正アクセスして62万枚以上の写真を盗んだ男が逮捕される]]></title>
-        <id>https://gigazine.net/news/20210825-icloud-nude-photo-theft/</id>
-        <link href="https://gigazine.net/news/20210825-icloud-nude-photo-theft/"/>
-        <updated>2021-08-25T01:39:00.000Z</updated>
-        <summary type="html"><![CDATA[続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MicrosoftがXboxでもクラウドゲームサービス「Xbox Cloud Gaming」をプレイできるようにすると発表]]></title>
-        <id>https://gigazine.net/news/20210825-xbox-cloud-gaming-comes-consoles/</id>
-        <link href="https://gigazine.net/news/20210825-xbox-cloud-gaming-comes-consoles/"/>
-        <updated>2021-08-25T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Xbox Cloud Gaming」を2021年のホリデーシーズン中にXbox Series X/SとXbox Oneでも利用可能にすると発表しました。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男尊女卑な社内文化やセクハラが問題視されるActivision Blizzardの訴訟が範囲を拡大、証拠となる書類を破棄したとの批判も]]></title>
-        <id>https://gigazine.net/news/20210825-activision-blizzard-lawsuit-updates/</id>
-        <link href="https://gigazine.net/news/20210825-activision-blizzard-lawsuit-updates/"/>
-        <updated>2021-08-25T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Activision Blizzardですが、DFEHがこの訴訟の範囲を拡大し、フルタイムで働く従業員だけでなく臨時労働者に対する扱いにも差別が存在すると訴えました。加えて、DFEHは「Activision Blizzardが調査を妨害した」とも主張しています。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[慢性的な下痢や腹痛に襲われる過敏性腸症候群には腸内細菌に加えて「腸内のウイルス」が影響している可能性]]></title>
-        <id>https://gigazine.net/news/20210825-gut-virome-irritable-bowel-syndrome/</id>
-        <link href="https://gigazine.net/news/20210825-gut-virome-irritable-bowel-syndrome/"/>
-        <updated>2021-08-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[腸内細菌の生態系(腸内細菌叢)が人間の健康や精神状態に影響するとして注目を集めており、下痢・便秘・腹痛といった症状が続く過敏性腸症候群(IBS)との関連も指摘されています。新たに、アメリカのメイヨー・クリニックなどの研究チームは、腸内細菌叢だけでなく「腸内ウイルス叢」も過敏性腸症候群に影響を及ぼしているとの論文を発表しました。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node-RED 2.0の新機能: 概要紹介]]></title>
-        <id>https://qiita.com/HiroyasuNishiyama/items/ff8f44cec8c6ffb4f525?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/HiroyasuNishiyama/items/ff8f44cec8c6ffb4f525?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-24T23:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Node-RED 2.0の新機能: 概要紹介
+        <title type="html"><![CDATA[Scala 3 のマクロを使って Minecraft のプロトコルデコーダを自動導出する]]></title>
+        <id>https://qiita.com/Kory__3/items/250c1b00d0e04813c45d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Kory__3/items/250c1b00d0e04813c45d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-24T23:03:40.000Z</updated>
+        <summary type="html"><![CDATA[諸事情により急に Minecraft のプロトコルを喋る Scala ライブラリが欲しくなった僕は、要求^1に合いそうなライブラリが見当たらなかったため仕方なく作ることにしました。
 
-株式会社日立製作所 
-サービスコンピューティング研究部
-西山博泰
-
-はじめに
-
-Node-REDはコーディングレスでプログラムを作成できるプログラミングツー…]]></summary>
+Scala / …]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD復活の功労者でFPGA開発企業CEOのジム・アンダーソン氏へのインタビューが公開中]]></title>
-        <id>https://gigazine.net/news/20210825-jim-anderson-interview/</id>
-        <link href="https://gigazine.net/news/20210825-jim-anderson-interview/"/>
-        <updated>2021-08-24T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ジム・ケラー氏が手がけたZenアーキテクチャによるRyzenシリーズの展開を指揮し、倒産寸前だったAMDの復活を影で支えた功労者として知られているジム・アンダーソン氏は、2018年にAMDを退社し、FPGAを中心に開発する半導体企業・ラティスのCEOに就任しました。そんなアンダーソンCEOへのインタビューを、ハードウェア関連ニュースサイトのAnandTechが公開しています。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
     <entry>
@@ -560,70 +1007,6 @@ Created by NekoAllergy
 機械学習で使う〇〇関数は 5 つ...]]></summary>
         <author>
             <name>NekoAllergy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「中小ブランドの成長に欠かせないプラットフォーム」というAmazonから撤退したメーカー、その理由とは？]]></title>
-        <id>https://gigazine.net/news/20210825-amazon-demand-bikes-surged/</id>
-        <link href="https://gigazine.net/news/20210825-amazon-demand-bikes-surged/"/>
-        <updated>2021-08-24T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現代の強盗男爵」と批判する声もあるように、同社のビジネスの在り方に懐疑的な目を向けるメディアや経済人は後を絶ちません。そんなAmazon上での商品の販売を取りやめた中小企業の事例を、海外メディアのThe Vergeが紹介しています。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KeycloakのJWTをVerifyする]]></title>
-        <id>https://zenn.dev/gebo/articles/oidc-keycloak-verify-jwt</id>
-        <link href="https://zenn.dev/gebo/articles/oidc-keycloak-verify-jwt"/>
-        <updated>2021-08-24T21:49:15.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-Keycloak のOpenID ConnectでJWTの署名検証(Verify)をしたメモです。
-追記
-本記事で OepnID Connect の RP で JWTを検証している記載について以下の指摘がありました。
-
-IDトークンのオーディエンスはRPですが、アクセストークンのオーディエンスはリソースサーバーです。 RPが検証する必要が出るのは、フロントからバックエンドに送るなどの本来の意図からズレたユースケースである可能性があります
-
-参考にする場合はこの点をご注意ください。
-JSON Web Token (JWT) とは何か
-
-
-Wiki
-
-
-RFC-7519
-
-
-
-...]]></summary>
-        <author>
-            <name>gebo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これまで雪しか降らなかったグリーンランドの山頂で史上初めて「雨」が降る]]></title>
-        <id>https://gigazine.net/news/20210825-rained-greenland-first-time-recorded-history/</id>
-        <link href="https://gigazine.net/news/20210825-rained-greenland-first-time-recorded-history/"/>
-        <updated>2021-08-24T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サミットキャンプで、史上初となる「降雨」が確認されました。この現象は地球温暖化が急速に進行していることを指し示す実例として報じられています。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GASでZoomのURLを生成し、定期的にSlackに投げる]]></title>
-        <id>https://qiita.com/daiti0113/items/8d56e1fb0f3a932bebfe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/daiti0113/items/8d56e1fb0f3a932bebfe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-24T17:50:30.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-(有料プランに入れよという話だが、)
-Zoomの無料プランでは同じミーティングURLを使い続けることができないため、
-URLを新規に自動生成し、Slackに定期的に投げてくれるBotを作…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -674,27 +1057,6 @@ http://sssapi.app
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[終息しない新型コロナウイルスのパンデミックに対し社会はどう変わっていくのか？]]></title>
-        <id>https://gigazine.net/news/20210824-live-coronavirus-forever/</id>
-        <link href="https://gigazine.net/news/20210824-live-coronavirus-forever/"/>
-        <updated>2021-08-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ワクチン接種による集団免疫の達成は厳しい」という見方が強まっており、公衆衛生対策の方針の見直しが進んでいます。アメリカの月刊誌・The Atlanticが、根絶が非現実的なものとなりつつある新型コロナウイルスと、どのように共存していくことになるのかを論じました。      
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[発酵バターの濃厚アイスをアーモンドチョコで包んだハーゲンダッツ「アーモンドバターサンド」試食レビュー]]></title>
-        <id>https://gigazine.net/news/20210824-haagen-dazs-almond-butter-sandwich/</id>
-        <link href="https://gigazine.net/news/20210824-haagen-dazs-almond-butter-sandwich/"/>
-        <updated>2021-08-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[LINE Bot 開発入門] LINE Bot Serverを作ってみる その2]]></title>
         <id>https://qiita.com/bathtimefish/items/77453b367ce634f7d677?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/bathtimefish/items/77453b367ce634f7d677?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -724,57 +1086,6 @@ LINE Bot Serverを作ってみる その1のつづきです。
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[塩基配列からアミノ酸の配列に変換する]]></title>
-        <id>https://zenn.dev/dolpen/articles/74a2cff79658d7</id>
-        <link href="https://zenn.dev/dolpen/articles/74a2cff79658d7"/>
-        <updated>2021-08-24T12:07:56.000Z</updated>
-        <summary type="html"><![CDATA[なぜそんなことを
-新型コロナウィルスのワクチンで利用される mRNA の塩基配列は、ファイザー社製とモデルナ社製とでは微妙に異なるものである（リンク先表中の mRNA の塩基配列のうち、オレンジ色で着色されている部分が、注射された後に体内で合成されるスパイクタンパク質を構成するアミノ酸列の設計図である）。
-これら2つが誘導するスパイクタンパク質が同一かどうかを確認するために、アミノ酸列へのデコーダーを Javascript でちょろっと書いて検証してみた。
-
- やってみた
-
- アミノ酸列のソースとなる塩基列の抜粋
-長いです。
-
-      
-        
-        cons...]]></summary>
-        <author>
-            <name>dolpen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAPでのRPA活用方法のご紹介]]></title>
-        <id>https://qiita.com/wutian/items/95aa3e935d0a7e9d38f8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/wutian/items/95aa3e935d0a7e9d38f8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-24T10:35:54.000Z</updated>
-        <summary type="html"><![CDATA[この記事は chillSAP 夏の自由研究2021  の記事として執筆しています。
-
-はじめに
-
-コロナ禍でDXの需要が高まっており、RPAを利用している企業が増えてきました。
-
-RPA（Robotic P…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PythonでLINE半botを作る(Part4)]]></title>
-        <id>https://qiita.com/Py_r/items/06260e710a2ac6d64f12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Py_r/items/06260e710a2ac6d64f12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-24T09:58:50.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-Part1を投稿してから1日が経ちました。そこでPart1のLGTMとView数を確認してみました.なんと...
-
-1365views!!(18:26現在)しかも6LGTM...これはかな…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kaggleで書いたコードの備忘録その２～自然言語処理まとめ～（形態素解析、TF-IDF、スタッキング等）]]></title>
         <id>https://qiita.com/pocokhc/items/0b6b6534ab984bb87ac4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/pocokhc/items/0b6b6534ab984bb87ac4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -785,6 +1096,21 @@ Part1を投稿してから1日が経ちました。そこでPart1のLGTMとView�
 
 ・Kaggle関係の記事
 Kaggleのタイタニックに挑…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全TwitterAPI]]></title>
+        <id>https://qiita.com/Beginner_T/items/62477c1f97fa74ff63cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Beginner_T/items/62477c1f97fa74ff63cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-08-24T09:01:37.000Z</updated>
+        <summary type="html"><![CDATA[全APIと書きましたが、まだあるかもしれないです
+
+
+
+自分用なのでわかりにくいかもです
+非公開APIは機能などの情報が全くないのでわかり次第メモ程度に追加していきます]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -802,104 +1128,6 @@ Kaggleのタイタニックに挑…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【検証】音声異常へゼロショット学習]]></title>
-        <id>https://qiita.com/motonobu_ut/items/bcd012b28226e4c722f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/motonobu_ut/items/bcd012b28226e4c722f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-24T06:56:44.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-画像の異常検知技術は、ビデオ監視、製造業の欠陥検出、医療画像分析などに応用されますが、中でも大量の画像(映像)に対して、自動かつ高精度に異常を判定する目的でAIモデルの活用が研究されてい…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OAuth 2.0 Device AuthZ Grant +フィッシングのリスクとは]]></title>
-        <id>https://zenn.dev/ritou/articles/560ee21f03a727</id>
-        <link href="https://zenn.dev/ritou/articles/560ee21f03a727"/>
-        <updated>2021-08-24T06:17:04.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、ritouです。
-こんな記事を見かけました。
-
-OAuth’s Device Code Flow Abused in Phishing Attacks | Secureworks
-New Phishing Attacks Exploiting OAuth Authorization Flows (Part 1) - Netskope
-New Phishing Attacks Exploiting OAuth Authentication Flows (Part 2) - Netskope
-New Phishing Attacks Exploiting OAuth Authen...]]></summary>
-        <author>
-            <name>ritou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integration as a Script ― Apache CamelとJBangによるインテグレーションスクリプティング]]></title>
-        <id>https://zenn.dev/tadayosi/articles/d56bb322dec6f6</id>
-        <link href="https://zenn.dev/tadayosi/articles/d56bb322dec6f6"/>
-        <updated>2021-08-24T05:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Javaは長らくプロジェクトの立ち上げから最初のコーディングまでが重く、スクリプト系のプログラマから批判されてきた。それも最近のJShellやJBangの登場で変わってきた。静的型付け言語としての構文の重たさを除けば、ほぼスクリプト言語の感覚でプログラミングできる。
-ちょっとしたタスクをスクリプティングでやるにも、これまではBashやPythonのようなスクリプト言語が主流だったが、今ではJavaも選択肢の1つになる。Javaのメリットは、（比較的重たい処理での）実行時の速さと何より非常に豊富なライブラリのエコシステムだ。
-エコシステムという点では、Javaで最もライブラリが成熟した分野...]]></summary>
-        <author>
-            <name>佐藤 匡剛</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[機械支援小説の書き方を考える]]></title>
-        <id>https://zenn.dev/enjoetoh/articles/how-to-write-text</id>
-        <link href="https://zenn.dev/enjoetoh/articles/how-to-write-text"/>
-        <updated>2021-08-24T04:20:35.000Z</updated>
-        <summary type="html"><![CDATA[小説と計算機
-＊この記事は、随時更新される予定です
-
- 背景
-主に妙な小説を書いてくらしています[1]。
-するとときどき、文字列を機械的に操作したくなったりします。ある程度はスクリプトなどを書いてしのいでいます。
-バロウズにはハサミとノリがありました。
-ジョイスに計算機があったなら、一体何を書いたでしょうか[2]。
-「ああ、こんなとき、自分で好きにできるテキストエディタがあったらなあ……」
-と、主人公は思いました。
-
- やりたいこと
-と考えてみて別段、エディタを書きたいわけでもありません。
-ファイル処理とかを触りたいわけではなくて、手近のテキストエディタで作成したテキストを加工して、...]]></summary>
-        <author>
-            <name>enjoetoh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL CASEを使って条件分岐させてみた]]></title>
-        <id>https://qiita.com/annayamamoto/items/a2b4297c1a1d17a6c7b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/annayamamoto/items/a2b4297c1a1d17a6c7b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-24T04:08:59.000Z</updated>
-        <summary type="html"><![CDATA[CASEで条件分岐させてDBから値を取得しようとした時に書き方がわからなくて
-少し手こずったのでおさらい
-ちなみに元々のクエリ文はWHERE句のみ（ANDやORを使って）で
-20行以上あったのが8行…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポートフォリオサイトをGatsby.js + Vercelで作って、GitHub Actionsで更新を自動化した記録]]></title>
-        <id>https://zenn.dev/d_forest/articles/037ad5a1c26016</id>
-        <link href="https://zenn.dev/d_forest/articles/037ad5a1c26016"/>
-        <updated>2021-08-24T02:43:54.000Z</updated>
-        <summary type="html"><![CDATA[Gatsby.js + Vercelが気になっていたので、丁度いい機会と思いポートフォリをサイトを作って公開しました。そのときに参考にした記事やTipsをまとめておきます。
-https://mkitlab.com/
-Githubのリポジトリも公開しています。
-https://github.com/dforest/portfolio
-2020年10月頃に手を付け始めて、半年以上寝かせて慌てて仕上げたのがGithubのコミット履歴からよく分かる
-
- 要件
-GitHubのリポジトリを見てもらうのが早いと思いますが、簡単にまとめてみます。
-
-WorksのデータをJSON管理
-
-
-data/wor...]]></summary>
-        <author>
-            <name>ふぉれ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[開発者が考える提案書 補講 - Amazon流Internal Press Releaseテンプレート]]></title>
         <id>https://qiita.com/e99h2121/items/d1b15b54719da76ffad1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/e99h2121/items/d1b15b54719da76ffad1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -907,61 +1135,6 @@ data/wor...]]></summary>
         <summary type="html"><![CDATA[https://qiita.com/e99h2121/items/d690ea1fb7e9f9eb9ad4
 
 というのを以前書いたのだが、その際に教わったAmazon社の「Internal Press…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あなたのAWS S3は安全ですか?]]></title>
-        <id>https://qiita.com/sanshouo/items/becfd1b94bd305c67752?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/sanshouo/items/becfd1b94bd305c67752?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-23T19:05:20.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-みなさま、超ウキウキするイベントが開催されていることはご存知でしょうか。
-TrendMicro社が開催する以下のイベントで大賞を取ると、超大盤振る舞い、アマゾンギフト券10万円分が手にで…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutterで個人アプリリリースをして、約1年間で得た知見をまとめる]]></title>
-        <id>https://qiita.com/Sashiiii111/items/65f53c80a108ef1a826e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Sashiiii111/items/65f53c80a108ef1a826e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-23T15:33:55.000Z</updated>
-        <summary type="html"><![CDATA[目次
-
-2020年10月に個人開発でFlutterを使ったスマホアプリをリリースしました。
-そろそろリリースしてから1年経つので得た知見を簡単に纏めておきます。
-誰かの役に立てば嬉しいです。
-
-リリー…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[std::vector をがんばって高速に resize する]]></title>
-        <id>https://qiita.com/i_saint/items/59c394a28a5244ec94e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/i_saint/items/59c394a28a5244ec94e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-23T15:07:06.000Z</updated>
-        <summary type="html"><![CDATA[あらまし
-
-プロファイラとにらめっこしながら気合を入れて最適化していくと、最終的に上位に std::vector<char>::resize() が残った、という経験が度々ある。
-
-該当ケースは大抵 …]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rubyでgetsするときはSTDINがいらないのに、rakeタスクでgetsするときはSTDINが必要な理由]]></title>
-        <id>https://qiita.com/aboru/items/16ba69afd1e1a2413563?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/aboru/items/16ba69afd1e1a2413563?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-23T14:59:21.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-rakeタスクを初めて作っているときに、標準入力の文字を受け取りたいと思い、getsを実装したところエラーが発生しました。rubyではgetsでエラーが起きてなかったのになぜ？Rakef…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -991,22 +1164,6 @@ GraphQL で 1:N のデータ構造をクエリすると、すぐに N+1 問題�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[色々な会社のエンジニア向け新人研修資料]]></title>
-        <id>https://qiita.com/ok2/items/04086f7ee7bde6ab57b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/ok2/items/04086f7ee7bde6ab57b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-23T13:01:49.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-最近は色々な企業がエンジニア向けの新人研修資料を公開しています。
-基本は自分用の備忘録です。
-※気がついた時に更新する程度なので、最新版などをお求めの方は別途調べてもらえるとmm
-
-資料リ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[無人島に持っていく(Neo)vimプラグイン10選 (TS開発環境編)]]></title>
         <id>https://zenn.dev/yano/articles/vim_plugin_top_10</id>
         <link href="https://zenn.dev/yano/articles/vim_plugin_top_10"/>
@@ -1031,47 +1188,6 @@ Vim上でGi...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScriptのコメントは4種類ある]]></title>
-        <id>https://qiita.com/rana_kualu/items/3ec7a5fdf6a62fd6eecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/rana_kualu/items/3ec7a5fdf6a62fd6eecb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-23T10:45:19.000Z</updated>
-        <summary type="html"><![CDATA[JavaScriptのコメントは//と/* */の2種類である、というのはよく知られた話です。
-
-嘘です。
-
-4種類あります。
-
-//
-
-1行コメントです。
-
-let a = 1; // ここから行末までコメ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud FirestoreとCloud Storageを使ったDocument更新]]></title>
-        <id>https://zenn.dev/1amageek/articles/95baa6918f7aa2</id>
-        <link href="https://zenn.dev/1amageek/articles/95baa6918f7aa2"/>
-        <updated>2021-08-23T09:10:17.000Z</updated>
-        <summary type="html"><![CDATA[久しぶりの投稿です。Stamp Incのnoriです。
-今回は、Cloud Firestore と Cloud Storage と Cloud Functions を連携させたDocumentの更新について解説しようと思います。
-Cloud Firestore だけの更新であれば簡単ですが、Cloud Storage と連携させると割と考慮することが増えるので、参考になると幸いです。
-
- 今回の要件
-今回は例としてユーザーの情報を変更するためのロジックを考えていきましょう。また要件は次のようにします。
-
- クライアントサイドの要件
-
-
-ユーザーのプロフィール画像を表示できる
-ユーザーのニ...]]></summary>
-        <author>
-            <name>1amageek</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Atomic designを辞めて利用目的別のディレクトリ構成に移行する]]></title>
         <id>https://zenn.dev/ynakamura/articles/8fab06bba527b5</id>
         <link href="https://zenn.dev/ynakamura/articles/8fab06bba527b5"/>
@@ -1086,135 +1202,6 @@ Cloud Firestore だけの更新であれば簡単ですが、Cloud Storage と�
 そもそも...]]></summary>
         <author>
             <name>yoshihiro nakamura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel oneAPIを入れるとClangが死ぬかもしれない]]></title>
-        <id>https://zenn.dev/hishinuma_t/articles/intel-oneapi_clang</id>
-        <link href="https://zenn.dev/hishinuma_t/articles/intel-oneapi_clang"/>
-        <updated>2021-08-23T08:09:50.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-TL;DR. Intel oneAPIとClangは競合する可能性があります
-iccが無償になって，yumやaptで簡単に入るよって書いてる記事が増えてきました．
-気軽な気持ちで入れられるような顔をしていますが，これは罠です． setvars.sh とかいうクソスクリプトがシステムの環境変数設定をぶち壊す可能性があります．
-自分のマシンなら良いですが，何も考えずに共用のマシンにインストールするのは考え直してください．
-この記事は以下2つの記事の続きです．何のためにインストール記事なんて書いたかって，実はこの記事をちゃんと書きたかったからです．
-
-Intel oneAPIのI...]]></summary>
-        <author>
-            <name>Hishinuma_t</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンポーネント設計の基礎]]></title>
-        <id>https://qiita.com/t-hsmt/items/7d0d2bd29e8647a0eec9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/t-hsmt/items/7d0d2bd29e8647a0eec9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-23T02:49:28.000Z</updated>
-        <summary type="html"><![CDATA[ソフトウェアコンポーネントについて、Wikipediaでは以下のように記載されています。
-Wikipedia:ソフトウェアコンポーネント
-
-
-事前に製作されたコンポーネント群を組み合わせて、電気製品や機…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COCOAにコントリビューターとして貢献しよう！～実践編～]]></title>
-        <id>https://qiita.com/Murayu0225/items/c709872fff0a8c5b5fce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/Murayu0225/items/c709872fff0a8c5b5fce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-23T01:14:46.000Z</updated>
-        <summary type="html"><![CDATA[この記事の内容は、政府IT室CIO補佐官からの了承を得て投稿しております。
-
-前回の内容は、GitHubでの貢献方法でしたが、今回は仮想デバイス上にてCOCOAをデプロイする方法について書きます。(A…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自分自身を半自動的に更新し続ける祝日ライブラリ]]></title>
-        <id>https://zenn.dev/ikawaha/articles/20210823-7b6eb27fabc3d8</id>
-        <link href="https://zenn.dev/ikawaha/articles/20210823-7b6eb27fabc3d8"/>
-        <updated>2021-08-23T01:11:42.000Z</updated>
-        <summary type="html"><![CDATA[概要
-国民の祝日のリストを管理するライブラリを作ると、国が祝日のリストを更新するたびにライブラリのリストを修正する必要が出てきてしまいます。国は祝日のリストを更新したらライブラリに Pull Request すべきなのです（ぐるぐる目）。
-そんなわけで、国民の祝日のリストが更新されたら自動的に自分自身に PR を送って自分自身を半自動的に更新する祝日ライブラリを作成しました。
-https://github.com/ikawaha/holiday
-
- 祝日について
-「国民の祝日」に関する事務は大臣官房総務課で所掌していらっしゃるとのことで、「国民の祝日」について のページにいつが祝日に...]]></summary>
-        <author>
-            <name>ikawaha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具体的にどう本物のエンジニアになるかというお話（バックエンドエンジニアのロードマップ付）]]></title>
-        <id>https://qiita.com/mackeee-orange/items/afbed5ec3816d4af2e58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/mackeee-orange/items/afbed5ec3816d4af2e58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-22T23:03:16.000Z</updated>
-        <summary type="html"><![CDATA[1. 誰に向けたどういう記事なのか
-
-いわゆる #駆け出しエンジニア と呼ばれるような(定義割愛)プログラミング学習者に向けて，私が個人的に定義する「本物のエンジニア」になるための１つの道標になるよ…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlutterでDart-defineのみを使って開発環境と本番環境を分ける]]></title>
-        <id>https://zenn.dev/riscait/articles/separating-environments-in-flutter</id>
-        <link href="https://zenn.dev/riscait/articles/separating-environments-in-flutter"/>
-        <updated>2021-08-22T22:59:30.000Z</updated>
-        <summary type="html"><![CDATA[開発環境
-ステージング環境
-本番環境
-
-
-
-
-
-
-
-
-
-
-こんにちは、Flutterアプリ開発者の村松龍之介（@riscait）です😸
-
-Flutterにおいて、その環境分けの方法はいくつかありますが、今回は Dart-defines 1つのみを使用して実現する方法で実行してみたのでご紹介します。
-
-個人開発では無くてもなんとかなるかもしれませんが、複数人が関わったり規模の小さくないアプリを作成する場合、開発・ステージング（テスト）・本番のように複数環境が必要になってきます。
-
-https://twitter.com/riscait/status/14281502300174008...]]></summary>
-        <author>
-            <name>村松龍之介</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaユーザーがPythonを使って印象的だった点]]></title>
-        <id>https://qiita.com/rebi/items/ae97745868817c839a2b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-        <link href="https://qiita.com/rebi/items/ae97745868817c839a2b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
-        <updated>2021-08-22T22:57:12.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-最近Pythonを用いてLambdaを開発する機会がありました。今までJavaを中心に開発してきた自分にとっては新鮮な経験で、Javaと違ってPythonだとこのように書く・書けるのかと…]]></summary>
-        <author>
-            <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing with Next.js]]></title>
-        <id>https://zenn.dev/takepepe/articles/testing-with-nextjs</id>
-        <link href="https://zenn.dev/takepepe/articles/testing-with-nextjs"/>
-        <updated>2021-08-22T13:29:53.000Z</updated>
-        <summary type="html"><![CDATA[先日、Next.js におけるテスト手法について、公式ドキュメントが追加され話題になりました。
-https://twitter.com/delba_oliveira/status/1427307677709967362
-取り上げられている 2 者はよく知られており、いずれかに触れたことがある方も多いかと思います。この公式ドキュメントページでは「何を使って」を紹介しているのみなので、どちらを選ぶべきか悩んだ方もいるのではないでしょうか？
-
-Cypress
-Jest & React Testing Library
-
-この判断についてはドキュメントに書かれていなかったので、筆者なりの見...]]></summary>
-        <author>
-            <name>Takepepe</name>
         </author>
     </entry>
     <entry>
